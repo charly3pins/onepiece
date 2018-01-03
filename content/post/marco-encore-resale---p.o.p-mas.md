@@ -1,6 +1,21 @@
 +++
-date = "2018-01-03T23:42:24+00:00"
+date = "2018-01-03"
 title = "Marco Encore Resale - P.O.P MAS"
-
+banner = ""
+categories = []
+description = ""
+images = []
+menu = ""
+tags = []
 +++
-init
+**Character:** Marco (マルコ)
+
+**Serie:** P.O.P MAS
+
+**Sculptor:** MAS
+
+**Release Price:** ¥9250
+
+**Release Dates:** April 2017
+
+**Dimensions:** H250mm
