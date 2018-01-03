@@ -19,5 +19,3 @@ title = "Marco ENCORE RESALE - P.O.P MAS"
 **Release Dates:** 2017/04
 
 **Dimensions:** H250mm
-
-![](/uploads/2018/01/03/MAS04 Marco ENCORE RESALE pic08.jpeg)
