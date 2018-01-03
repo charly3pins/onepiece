@@ -1,12 +1,11 @@
 +++
 banner = ""
-categories = []
+categories = ["figure"]
 date = "2018-01-03T00:00:00Z"
 description = ""
 images = []
-tags = []
+tags = ["onepiece", "marco", "portrait of pirates"]
 title = "Marco Encore Resale - P.O.P MAS"
-undefined = ["onepiece", "marco", "portrait of pirates"]
 
 +++
 **Character:** Marco (マルコ)
