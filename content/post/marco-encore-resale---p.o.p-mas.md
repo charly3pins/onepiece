@@ -20,5 +20,3 @@ undefined = ["onepiece", "marco", "portrait of pirates"]
 **Release Dates:** April 2017
 
 **Dimensions:** H250mm
-
-![](/uploads/2018/01/03/oplogo.png)
