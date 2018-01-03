@@ -2,7 +2,7 @@
 banner = ""
 categories = ["Figure"]
 date = "2018-01-03T21:09:00+01:00"
-description = "Review of Marco"
+description = "Review of Marco Encore Resale"
 images = []
 tags = ["onepiece", "marco"]
 title = "Marco ENCORE RESALE - P.O.P MAS"
@@ -18,6 +18,6 @@ title = "Marco ENCORE RESALE - P.O.P MAS"
 
 **Release Dates:** 2017/04
 
-**Dimensions:** H=250mm
+**Dimensions:** H250mm
 
 ![](/uploads/2018/01/03/MAS04 Marco ENCORE RESALE pic08.jpeg)
