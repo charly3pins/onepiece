@@ -8,16 +8,14 @@ tags = ["onepiece", "marco"]
 title = "Marco ENCORE RESALE - P.O.P MAS"
 
 +++
-Character: Marco (マルコ)
+**Character:** Marco (マルコ)
 
-Serie: P.O.P MAS
+**Serie:** P.O.P MAS
 
-Sculptor: MAS
+**Sculptor:** MAS
 
-Release Price: ¥9250
+**Release Price:** ¥9250
 
-Release Dates: 2017/04
+**Release Dates:** 2017/04
 
-Dimensions: H=250mm
-
-![Marco ENCORE RESALE - P.O.P MAS](/uploads/2018/01/03/MAS04 Marco ENCORE RESALE pic01.jpeg "Marco ENCORE RESALE - P.O.P MAS")
+**Dimensions:** H=250mm
