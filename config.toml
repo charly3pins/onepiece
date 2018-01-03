@@ -13,8 +13,8 @@ theme = "hugo-icarus-theme"
 # themesDir = "../.."
 
 
-#[permalinks]
-#    post = "/:year/:month/:day/:slug"
+[permalinks]
+    post = "/:year/:month/:day/:slug"
 
 
 [params]
