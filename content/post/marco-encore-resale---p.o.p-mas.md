@@ -1,7 +1,12 @@
 +++
 date = "2018-01-03T23:05:16+00:00"
 title = "Marco Encore Resale - P.O.P MAS"
-
+banner = ""
+categories = []
+description = ""
+images = []
+menu = ""
+tags = []
 +++
 **Character:** Marco (マルコ)
 
