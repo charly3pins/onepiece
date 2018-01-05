@@ -18,7 +18,7 @@ title = "Akainu (Sakazuki) P.O.P Neo DX"
 
 **Release date:** Nov-11
 
-Height:** 26 (cm)
+**Height:** 26 (cm)
 
 **Weight:** 1190 (g)
 
