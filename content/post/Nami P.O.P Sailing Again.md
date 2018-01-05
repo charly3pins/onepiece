@@ -1,0 +1,29 @@
++++
+banner = ""
+categories = ["figure"]
+date = "2018-01-05T00:00:00Z"
+description = ""
+images = []
+tags = ["onepiece", "portrait of pirates", "Ajiken"]
+title = "Nami P.O.P Sailing Again"
++++
+
+**Name:** Nami P.O.P Sailing Again
+
+**Sculptor:** Ajiken
+
+**Official price:** 5985 ¥
+
+**Preorder date:** Sep-11
+
+**Release date:** Dec-11
+
+**Reeditions:** Jul-12, Jun-13
+
+**Height:** 21.5 (cm)
+
+**Weight:** 330 (g)
+
+**Box size:** 26.0 x 14.0 x 12.2 (cm)
+
+

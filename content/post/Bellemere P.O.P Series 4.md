@@ -1,0 +1,25 @@
++++
+banner = ""
+categories = ["figure"]
+date = "2018-01-05T00:00:00Z"
+description = ""
+images = []
+tags = ["onepiece", "portrait of pirates", ""]
+title = "Bellemere P.O.P Series 4"
++++
+
+**Name:** Bellemere P.O.P Series 4
+
+**Sculptor:** 
+
+**Official price:** 4320 ¥
+
+**Preorder date:** 
+
+**Release date:** Dec-05
+
+**Height:** 22 (cm)
+
+**Weight:** 380 (g)
+
+**Box size:** 19.0 x 27.8 x 12.0 (cm)

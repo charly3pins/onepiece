@@ -5,21 +5,21 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "Fukuda Takashi"]
-title = "Akainu (Sakazuki) P.O.P Neo DX"
+title = "Monkey D. Garp DX"
 +++
 
-**Name:** Akainu (Sakazuki) P.O.P Neo DX
+**Name:** Monkey D. Garp DX
 
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 7560 ¥
 
-**Preorder date:** Aug-11
+**Preorder date:** Sep-10
 
-**Release date:** Nov-11
+**Release date:** Jan-11
 
-**Height:** 26 (cm)
+**Height:** 24.5 (cm)
 
-**Weight:** 1190 (g)
+**Weight:** 1120 (g)
 
-**Box size:** 32.0 x 28.0 x 17.5 (cm)
+**Box size:** 28.1 x 30.0 x 17.4 (cm)
