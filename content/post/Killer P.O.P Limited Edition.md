@@ -10,6 +10,10 @@ title = "Killer P.O.P Limited Edition"
 
 **Name:** Killer P.O.P Limited Edition
 
+**Character:** Killer
+
+**Category:** Limited Edition 
+
 **Sculptor:** Xuan Igarashi
 
 **Official price:** 8640 ¥
@@ -23,3 +27,5 @@ title = "Killer P.O.P Limited Edition"
 **Weight:** 1199 (g)
 
 **Box size:** 30.5 x 20.5 x 18.5 (cm)
+
+

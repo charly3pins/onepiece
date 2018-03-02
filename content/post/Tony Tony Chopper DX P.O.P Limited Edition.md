@@ -10,6 +10,10 @@ title = "Tony Tony Chopper DX P.O.P Limited Edition"
 
 **Name:** Tony Tony Chopper DX P.O.P Limited Edition
 
+**Character:** Tony Tony Chopper
+
+**Category:** Neo DX  Limited 
+
 **Sculptor:** Jyango
 
 **Official price:** 3570 ¥
@@ -23,3 +27,5 @@ title = "Tony Tony Chopper DX P.O.P Limited Edition"
 **Weight:** 404 (g)
 
 **Box size:** 10.2 x 19.0 x 14.0 (cm)
+
+

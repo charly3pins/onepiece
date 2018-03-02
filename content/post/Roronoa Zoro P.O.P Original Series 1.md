@@ -10,6 +10,10 @@ title = "Roronoa Zoro P.O.P Original Series 1"
 
 **Name:** Roronoa Zoro P.O.P Original Series 1
 
+**Character:** Roronoa Zoro
+
+**Category:** Original Series 
+
 **Sculptor:** Layup
 
 **Official price:** 3990 ¥
@@ -23,3 +27,5 @@ title = "Roronoa Zoro P.O.P Original Series 1"
 **Weight:** 420 (g)
 
 **Box size:** 28.0 x 19.0 x 12.0 (cm)
+
+

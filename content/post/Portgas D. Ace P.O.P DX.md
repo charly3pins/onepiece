@@ -10,6 +10,10 @@ title = "Portgas D. Ace P.O.P DX"
 
 **Name:** Portgas D. Ace P.O.P DX
 
+**Character:** Portgas D. Ace
+
+**Category:** Neo DX 
+
 **Sculptor:** ATTM
 
 **Official price:** 6300 ¥
@@ -25,5 +29,7 @@ title = "Portgas D. Ace P.O.P DX"
 **Weight:** 650 (g)
 
 **Box size:** 30.0 x 24.5 x 18.0 (cm)
+
+
 
 

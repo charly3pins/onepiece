@@ -10,6 +10,10 @@ title = "Tony Tony Chopper P.O.P MAS Horn Point Ver."
 
 **Name:** Tony Tony Chopper P.O.P MAS Horn Point Ver.
 
+**Character:** Tony Tony Chopper
+
+**Category:** M.A.S 
+
 **Sculptor:** MAS
 
 **Official price:** 7560 ¥
@@ -23,3 +27,5 @@ title = "Tony Tony Chopper P.O.P MAS Horn Point Ver."
 **Weight:** 770 (g)
 
 **Box size:** 30.5 x 20.5 x 19.0 (cm)
+
+

@@ -10,6 +10,10 @@ title = "Mr.2 Bon Clay P.O.P Neo"
 
 **Name:** Mr.2 Bon Clay P.O.P Neo
 
+**Character:** Mr. 2 Bon Clay
+
+**Category:** Neo 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 4725 ¥
@@ -25,5 +29,7 @@ title = "Mr.2 Bon Clay P.O.P Neo"
 **Weight:** 670 (g)
 
 **Box size:** 17.0 x 30.0 x 21.0 (cm)
+
+
 
 

@@ -10,6 +10,10 @@ title = "Monkey D. Garp DX"
 
 **Name:** Monkey D. Garp DX
 
+**Character:** Monkey D. Garp
+
+**Category:** Neo DX 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 7560 ¥
@@ -23,3 +27,5 @@ title = "Monkey D. Garp DX"
 **Weight:** 1120 (g)
 
 **Box size:** 28.1 x 30.0 x 17.4 (cm)
+
+

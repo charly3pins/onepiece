@@ -10,6 +10,10 @@ title = "Boa Hancock P.O.P CB EX"
 
 **Name:** Boa Hancock P.O.P CB EX
 
+**Character:** Boa Hancock
+
+**Category:** CB  EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 4104 ¥
@@ -23,3 +27,5 @@ title = "Boa Hancock P.O.P CB EX"
 **Weight:** 169 (g)
 
 **Box size:** 17.0 x 14.0 x 8.0 (cm)
+
+

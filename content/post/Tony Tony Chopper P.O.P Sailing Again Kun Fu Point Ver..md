@@ -10,6 +10,10 @@ title = "Tony Tony Chopper P.O.P Sailing Again Kun Fu Point Ver."
 
 **Name:** Tony Tony Chopper P.O.P Sailing Again Kun Fu Point Ver.
 
+**Character:** Tony Tony Chopper
+
+**Category:** Sailing Again 
+
 **Sculptor:** Jyango
 
 **Official price:** 3150 ¥
@@ -23,3 +27,5 @@ title = "Tony Tony Chopper P.O.P Sailing Again Kun Fu Point Ver."
 **Weight:** 250 (g)
 
 **Box size:** 14.5 x 13.0 x 12.2 (cm)
+
+

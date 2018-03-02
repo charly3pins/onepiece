@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P Edition Z"
 
 **Name:** Monkey D. Luffy P.O.P Edition Z
 
+**Character:** Monkey D. Luffy
+
+**Category:** Edition Z 
+
 **Sculptor:** Nanatsuki
 
 **Official price:** 8208 ¥
@@ -23,3 +27,5 @@ title = "Monkey D. Luffy P.O.P Edition Z"
 **Weight:** 641 (g)
 
 **Box size:** 28.0 x 23.4 x 18.0 (cm)
+
+

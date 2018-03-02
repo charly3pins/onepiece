@@ -10,16 +10,22 @@ title = "Vinsmoke Reiju P.O.P Limited Edition Ver.02"
 
 **Name:** Vinsmoke Reiju P.O.P Limited Edition Ver.02
 
+**Character:** Vinsmoke Reiju
+
+**Category:** Limited Edition 
+
 **Sculptor:** 
 
-**Official price:** 
+**Official price:** 8650 ¥
 
 **Preorder date:** 
 
-**Release date:** 
+**Release date:** Aug-18
 
 **Height:** 
 
 **Weight:** 
 
 **Box size:** 
+
+

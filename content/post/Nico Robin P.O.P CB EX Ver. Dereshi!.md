@@ -10,6 +10,10 @@ title = "Nico Robin P.O.P CB EX Ver. Dereshi!"
 
 **Name:** Nico Robin P.O.P CB EX Ver. Dereshi!
 
+**Character:** Nico Robin
+
+**Category:** CB  EX 
+
 **Sculptor:** MDM
 
 **Official price:** 1890 ¥
@@ -23,3 +27,5 @@ title = "Nico Robin P.O.P CB EX Ver. Dereshi!"
 **Weight:** 150 (g)
 
 **Box size:** 12.3 x 12.1 x 9.2 (cm)
+
+

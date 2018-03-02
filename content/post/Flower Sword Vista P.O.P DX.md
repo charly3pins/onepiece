@@ -10,6 +10,10 @@ title = "Flower Sword Vista P.O.P DX"
 
 **Name:** Flower Sword Vista P.O.P DX
 
+**Character:** Flower Sword Vista
+
+**Category:** Neo DX 
+
 **Sculptor:** MAS
 
 **Official price:** 7560 ¥
@@ -23,3 +27,5 @@ title = "Flower Sword Vista P.O.P DX"
 **Weight:** 1360 (g)
 
 **Box size:** 34.0 x 33.2 x 20.2 (cm)
+
+

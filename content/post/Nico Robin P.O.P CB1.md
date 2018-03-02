@@ -10,6 +10,10 @@ title = "Nico Robin P.O.P CB1"
 
 **Name:** Nico Robin P.O.P CB1
 
+**Character:** Nico Robin
+
+**Category:** CB 
+
 **Sculptor:** MDM
 
 **Official price:** 1890 ¥
@@ -27,3 +31,5 @@ title = "Nico Robin P.O.P CB1"
 **Box size:** 16.2 x 13.0 x 7.2 (cm)
 
 
+
+**Bonus:** Don Quixote lanzó reedición de esta figura. Preordenable en noviembre de 2010 a 1780¥, se sortearon el 17/12/2010 de forma exclusiva en estas tiendas.

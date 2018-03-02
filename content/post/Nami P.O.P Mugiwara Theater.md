@@ -10,6 +10,10 @@ title = "Nami P.O.P Mugiwara Theater"
 
 **Name:** Nami P.O.P Mugiwara Theater
 
+**Character:** Nami
+
+**Category:** Mugiwara Theater 
+
 **Sculptor:** Jyango
 
 **Official price:** 1890 ¥
@@ -25,5 +29,7 @@ title = "Nami P.O.P Mugiwara Theater"
 **Weight:** 140 (g)
 
 **Box size:** 12.0 x 11.0 x 9.0 (cm)
+
+
 
 

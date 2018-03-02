@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P Original Series 1"
 
 **Name:** Monkey D. Luffy P.O.P Original Series 1
 
+**Character:** Monkey D. Luffy
+
+**Category:** Original Series 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 4320 ¥
@@ -23,3 +27,5 @@ title = "Monkey D. Luffy P.O.P Original Series 1"
 **Weight:** 420 (g)
 
 **Box size:** 28.0 x 19.0 x 12.0 (cm)
+
+

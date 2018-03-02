@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P Mugiwara Theater"
 
 **Name:** Monkey D. Luffy P.O.P Mugiwara Theater
 
+**Character:** Monkey D. Luffy
+
+**Category:** Mugiwara Theater 
+
 **Sculptor:** Jyango
 
 **Official price:** 1890 ¥
@@ -25,5 +29,7 @@ title = "Monkey D. Luffy P.O.P Mugiwara Theater"
 **Weight:** 170 (g)
 
 **Box size:** 12.0 x 11.0 x 9.0 (cm)
+
+
 
 

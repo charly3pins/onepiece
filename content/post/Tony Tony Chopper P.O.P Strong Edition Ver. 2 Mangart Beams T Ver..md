@@ -10,6 +10,10 @@ title = "Tony Tony Chopper P.O.P Strong Edition Ver. 2 Mangart Beams T Ver."
 
 **Name:** Tony Tony Chopper P.O.P Strong Edition Ver. 2 Mangart Beams T Ver.
 
+**Character:** Tony Tony Chopper
+
+**Category:** Strong Edition  Limited 
+
 **Sculptor:** Jyango
 
 **Official price:** 2100 ¥
@@ -23,3 +27,5 @@ title = "Tony Tony Chopper P.O.P Strong Edition Ver. 2 Mangart Beams T Ver."
 **Weight:** 210 (g)
 
 **Box size:** 16.2 x 12.2 x 9.3 (cm)
+
+**Bonus:** Vendido de forma exclusiva en las tiendas Beams T.

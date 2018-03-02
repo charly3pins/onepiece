@@ -10,6 +10,10 @@ title = "Nami P.O.P Limited Edition Ver. Red"
 
 **Name:** Nami P.O.P Limited Edition Ver. Red
 
+**Character:** Nami
+
+**Category:** Limited Edition 
+
 **Sculptor:** Ajiken/Kibayashi Norio
 
 **Official price:** 5985 ¥
@@ -23,3 +27,5 @@ title = "Nami P.O.P Limited Edition Ver. Red"
 **Weight:** 322 (g)
 
 **Box size:** 14.0 x 23.0 x 15.0 (cm)
+
+

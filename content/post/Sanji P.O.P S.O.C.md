@@ -10,6 +10,10 @@ title = "Sanji P.O.P S.O.C"
 
 **Name:** Sanji P.O.P S.O.C
 
+**Character:** Sanji
+
+**Category:** S.O.C 
+
 **Sculptor:** MAS
 
 **Official price:** 11880 ¥
@@ -23,3 +27,5 @@ title = "Sanji P.O.P S.O.C"
 **Weight:** 661 (g)
 
 **Box size:** 22.7 x 21.7 x 24.7 (cm)
+
+

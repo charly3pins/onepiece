@@ -10,6 +10,10 @@ title = "Killer P.O.P DX"
 
 **Name:** Killer P.O.P DX
 
+**Character:** Killer
+
+**Category:** Neo DX 
+
 **Sculptor:** MAS
 
 **Official price:** 7560 ¥
@@ -23,3 +27,5 @@ title = "Killer P.O.P DX"
 **Weight:** 790 (g)
 
 **Box size:** 27.0 x 26.0 x 20.0 (cm)
+
+

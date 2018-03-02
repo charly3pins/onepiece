@@ -10,6 +10,10 @@ title = "Nami P.O.P Limited Edition Mugiwara Ver."
 
 **Name:** Nami P.O.P Limited Edition Mugiwara Ver.
 
+**Character:** Nami
+
+**Category:** Limited Edition 
+
 **Sculptor:** Ajiken
 
 **Official price:** 7350 ¥
@@ -27,3 +31,5 @@ title = "Nami P.O.P Limited Edition Mugiwara Ver."
 **Box size:** 16.8 x 29.4 x 17.2 (cm)
 
 
+
+**Bonus:** Por aniversario de Megatrea Shop hubo una reedición con reservas entre el 03-23/02/2015 por 8.208¥. La figura se empezó a repartir en 03/2015.

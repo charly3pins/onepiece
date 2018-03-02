@@ -10,6 +10,10 @@ title = "Boa Hancock P.O.P Limited Edition Ver. Purple"
 
 **Name:** Boa Hancock P.O.P Limited Edition Ver. Purple
 
+**Character:** Boa Hancock
+
+**Category:** Limited Edition 
+
 **Sculptor:** Ajiken
 
 **Official price:** 6615 ¥
@@ -27,3 +31,5 @@ title = "Boa Hancock P.O.P Limited Edition Ver. Purple"
 **Box size:** 15.0 x 31.0 x 18.2 (cm)
 
 
+
+**Bonus:** Basada en una serie de ilustraciones que se hicieron para los eventos Memorial Log y Wonder Festival 2010 [Summer].

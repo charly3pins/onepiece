@@ -10,6 +10,10 @@ title = "Nami P.O.P Limited Edition Ver. Blue"
 
 **Name:** Nami P.O.P Limited Edition Ver. Blue
 
+**Character:** Nami
+
+**Category:** Limited Edition 
+
 **Sculptor:** Ajiken/Kibayashi Norio
 
 **Official price:** 6615 ¥
@@ -27,3 +31,5 @@ title = "Nami P.O.P Limited Edition Ver. Blue"
 **Box size:** 14.0 x 23.0 x 15.0 (cm)
 
 
+
+**Bonus:** El diseño del bikini está basado en el Color Spread del Capítulo 553 del manga.

@@ -10,6 +10,10 @@ title = "Bellemere P.O.P Series 4"
 
 **Name:** Bellemere P.O.P Series 4
 
+**Character:** Bellemere
+
+**Category:** Original Series 
+
 **Sculptor:** 
 
 **Official price:** 4320 ¥
@@ -23,3 +27,5 @@ title = "Bellemere P.O.P Series 4"
 **Weight:** 380 (g)
 
 **Box size:** 19.0 x 27.8 x 12.0 (cm)
+
+

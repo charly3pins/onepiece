@@ -10,6 +10,10 @@ title = "Rebecca P.O.P Sailing Again"
 
 **Name:** Rebecca P.O.P Sailing Again
 
+**Character:** Rebecca
+
+**Category:** Sailing Again 
+
 **Sculptor:** Tokunaga Fumiyashi
 
 **Official price:** 8800 ¥
@@ -23,3 +27,5 @@ title = "Rebecca P.O.P Sailing Again"
 **Weight:** 888 (g)
 
 **Box size:** 30.5 x 24.5 x 20.5 (cm)
+
+

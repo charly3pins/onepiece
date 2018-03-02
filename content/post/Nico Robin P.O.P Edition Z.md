@@ -10,6 +10,10 @@ title = "Nico Robin P.O.P Edition Z"
 
 **Name:** Nico Robin P.O.P Edition Z
 
+**Character:** Nico Robin
+
+**Category:** Edition Z 
+
 **Sculptor:** Nakao Yoshimasa
 
 **Official price:** 7770 ¥
@@ -23,3 +27,5 @@ title = "Nico Robin P.O.P Edition Z"
 **Weight:** 638 (g)
 
 **Box size:** 19.0 x 29.0 x 16.0 (cm)
+
+**Bonus:** La fecha inicial era 06/2013. Se retrasó a mitad de 07/2013.

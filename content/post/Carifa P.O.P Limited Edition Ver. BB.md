@@ -10,6 +10,10 @@ title = "Carifa P.O.P Limited Edition Ver. BB"
 
 **Name:** Carifa P.O.P Limited Edition Ver. BB
 
+**Character:** Carifa
+
+**Category:** Limited Edition 
+
 **Sculptor:** Inada Masaki
 
 **Official price:** 9720 ¥
@@ -23,3 +27,5 @@ title = "Carifa P.O.P Limited Edition Ver. BB"
 **Weight:** 483 (g)
 
 **Box size:** 18.0 x 18.0 x 18.0 (cm)
+
+

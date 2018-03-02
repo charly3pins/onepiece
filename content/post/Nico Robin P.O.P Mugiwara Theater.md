@@ -10,6 +10,10 @@ title = "Nico Robin P.O.P Mugiwara Theater"
 
 **Name:** Nico Robin P.O.P Mugiwara Theater
 
+**Character:** Nico Robin
+
+**Category:** Mugiwara Theater 
+
 **Sculptor:** Jyango
 
 **Official price:** 1890 ¥
@@ -23,3 +27,5 @@ title = "Nico Robin P.O.P Mugiwara Theater"
 **Weight:** 150 (g)
 
 **Box size:** 12.2 x 11.0 x 9.2 (cm)
+
+

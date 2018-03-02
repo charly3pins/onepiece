@@ -10,6 +10,10 @@ title = "Perhona P.O.P Sailing Again"
 
 **Name:** Perhona P.O.P Sailing Again
 
+**Character:** Perhona
+
+**Category:** Sailing Again 
+
 **Sculptor:** Ajiken
 
 **Official price:** 8190 ¥
@@ -23,3 +27,5 @@ title = "Perhona P.O.P Sailing Again"
 **Weight:** 1050 (g)
 
 **Box size:** 31.0 x 31.0 x 18.0 (cm)
+
+

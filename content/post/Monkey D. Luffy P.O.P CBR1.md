@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P CBR1"
 
 **Name:** Monkey D. Luffy P.O.P CBR1
 
+**Character:** Monkey D. Luffy
+
+**Category:** CB  R 
+
 **Sculptor:** Jyango
 
 **Official price:** 2970 ¥
@@ -23,3 +27,5 @@ title = "Monkey D. Luffy P.O.P CBR1"
 **Weight:** 150 (g)
 
 **Box size:** 16.2 x 13.0 x 7.2 (cm)
+
+

@@ -10,6 +10,10 @@ title = "Marco &#34;Phoenix&#34; P.O.P MAS [Encore Resale]"
 
 **Name:** Marco &#34;Phoenix&#34; P.O.P MAS [Encore Resale]
 
+**Character:** Marco Phoenix
+
+**Category:** M.A.S 
+
 **Sculptor:** MAS
 
 **Official price:** 9250 ¥
@@ -23,3 +27,5 @@ title = "Marco &#34;Phoenix&#34; P.O.P MAS [Encore Resale]"
 **Weight:** 1060 (g)
 
 **Box size:** 33.0 x 23.0 x 23.0 (cm)
+
+

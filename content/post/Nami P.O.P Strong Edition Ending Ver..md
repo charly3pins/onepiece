@@ -10,6 +10,10 @@ title = "Nami P.O.P Strong Edition Ending Ver."
 
 **Name:** Nami P.O.P Strong Edition Ending Ver.
 
+**Character:** Nami
+
+**Category:** Strong Edition 
+
 **Sculptor:** Ajiken
 
 **Official price:** 5565 ¥
@@ -23,3 +27,5 @@ title = "Nami P.O.P Strong Edition Ending Ver."
 **Weight:** 360 (g)
 
 **Box size:** 26.2 x 15.5 x 15.3 (cm)
+
+

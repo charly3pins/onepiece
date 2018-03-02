@@ -10,6 +10,10 @@ title = "Gekko Moriah P.O.P Neo DX"
 
 **Name:** Gekko Moriah P.O.P Neo DX
 
+**Character:** Gekko Moriah
+
+**Category:** Neo DX 
+
 **Sculptor:** MAS
 
 **Official price:** 9450 ¥
@@ -23,3 +27,5 @@ title = "Gekko Moriah P.O.P Neo DX"
 **Weight:** 1520 (g)
 
 **Box size:** 37.8 x 35.1 x 22.1 (cm)
+
+

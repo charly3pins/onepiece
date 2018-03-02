@@ -10,6 +10,10 @@ title = "Tashigi P.O.P Neo"
 
 **Name:** Tashigi P.O.P Neo
 
+**Character:** Tashigi
+
+**Category:** Neo 
+
 **Sculptor:** 
 
 **Official price:** 5250 ¥
@@ -23,3 +27,5 @@ title = "Tashigi P.O.P Neo"
 **Weight:** 430 (g)
 
 **Box size:** 28.2 x 19.2 x 12.2 (cm)
+
+

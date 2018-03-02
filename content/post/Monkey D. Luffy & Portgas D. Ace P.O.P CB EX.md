@@ -10,6 +10,10 @@ title = "Monkey D. Luffy &amp; Portgas D. Ace P.O.P CB EX"
 
 **Name:** Monkey D. Luffy &amp; Portgas D. Ace P.O.P CB EX
 
+**Character:** Monkey D. Luffy / Portgas D. Ace
+
+**Category:** CB  EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 3990 ¥
@@ -25,5 +29,7 @@ title = "Monkey D. Luffy &amp; Portgas D. Ace P.O.P CB EX"
 **Weight:** 260 (g)
 
 **Box size:** 18.1 x 16.3 x 8.0 (cm)
+
+
 
 

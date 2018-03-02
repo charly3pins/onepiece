@@ -10,6 +10,10 @@ title = "Boa Hancock P.O.P Neo EX Ver. Blue"
 
 **Name:** Boa Hancock P.O.P Neo EX Ver. Blue
 
+**Character:** Boa Hancock
+
+**Category:** Neo EX 
+
 **Sculptor:** Ajiken
 
 **Official price:** 7350 ¥
@@ -23,3 +27,5 @@ title = "Boa Hancock P.O.P Neo EX Ver. Blue"
 **Weight:** 620 (g)
 
 **Box size:** 30.5 x 21.5 x 16.4 (cm)
+
+

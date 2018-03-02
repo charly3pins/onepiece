@@ -10,6 +10,10 @@ title = "Rob Rucchi P.O.P Neo"
 
 **Name:** Rob Rucchi P.O.P Neo
 
+**Character:** Rob Rucchi
+
+**Category:** Neo 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 5040 ¥
@@ -25,5 +29,7 @@ title = "Rob Rucchi P.O.P Neo"
 **Weight:** 450 (g)
 
 **Box size:** 28.0 x 19.2 x 12.0 (cm)
+
+
 
 

@@ -10,6 +10,10 @@ title = "Perhona P.O.P CB-EX [SWEET] &#43; Bonus Photo Card"
 
 **Name:** Perhona P.O.P CB-EX [SWEET] &#43; Bonus Photo Card
 
+**Character:** Perhona
+
+**Category:** CB  EX 
+
 **Sculptor:** Jyango/Andou Kenji
 
 **Official price:** 8640 ¥
@@ -23,3 +27,5 @@ title = "Perhona P.O.P CB-EX [SWEET] &#43; Bonus Photo Card"
 **Weight:** 429 (g)
 
 **Box size:** 24.5 x 13.5 x 13.5 (cm)
+
+

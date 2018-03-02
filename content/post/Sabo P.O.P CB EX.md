@@ -10,6 +10,10 @@ title = "Sabo P.O.P CB EX"
 
 **Name:** Sabo P.O.P CB EX
 
+**Character:** Sabo
+
+**Category:** CB  EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 2310 ¥
@@ -23,3 +27,5 @@ title = "Sabo P.O.P CB EX"
 **Weight:** 210 (g)
 
 **Box size:** 16.1 x 13.2 x 8.0 (cm)
+
+

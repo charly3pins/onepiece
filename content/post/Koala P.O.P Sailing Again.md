@@ -10,6 +10,10 @@ title = "Koala P.O.P Sailing Again"
 
 **Name:** Koala P.O.P Sailing Again
 
+**Character:** Koala
+
+**Category:** Sailing Again 
+
 **Sculptor:** Ajiken
 
 **Official price:** 9720 ¥
@@ -23,3 +27,5 @@ title = "Koala P.O.P Sailing Again"
 **Weight:** 561 (g)
 
 **Box size:** 28.0 x 20.0 x 15.2 (cm)
+
+

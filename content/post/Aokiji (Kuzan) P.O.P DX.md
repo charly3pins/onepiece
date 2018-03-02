@@ -10,6 +10,10 @@ title = "Aokiji (Kuzan) P.O.P DX"
 
 **Name:** Aokiji (Kuzan) P.O.P DX
 
+**Character:** Aokiji
+
+**Category:** Neo DX 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 7560 ¥
@@ -23,3 +27,5 @@ title = "Aokiji (Kuzan) P.O.P DX"
 **Weight:** 1080 (g)
 
 **Box size:** 34.2 x 26.3 x 20.0 (cm)
+
+

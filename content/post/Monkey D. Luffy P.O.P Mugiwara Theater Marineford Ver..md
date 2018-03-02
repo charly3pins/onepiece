@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P Mugiwara Theater Marineford Ver."
 
 **Name:** Monkey D. Luffy P.O.P Mugiwara Theater Marineford Ver.
 
+**Character:** Monkey D. Luffy
+
+**Category:** Mugiwara Theater 
+
 **Sculptor:** Jyango
 
 **Official price:** 2000 ¥
@@ -25,5 +29,7 @@ title = "Monkey D. Luffy P.O.P Mugiwara Theater Marineford Ver."
 **Weight:** 170 (g)
 
 **Box size:** 12.0 x 11.0 x 9.0 (cm)
+
+
 
 

@@ -10,6 +10,10 @@ title = "Soldier P.O.P Sailing Again"
 
 **Name:** Soldier P.O.P Sailing Again
 
+**Character:** Soldier
+
+**Category:** Sailing Again 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 3800 ¥
@@ -23,3 +27,5 @@ title = "Soldier P.O.P Sailing Again"
 **Weight:** 157 (g)
 
 **Box size:** 16.0 x 13.0 x 8.0 (cm)
+
+

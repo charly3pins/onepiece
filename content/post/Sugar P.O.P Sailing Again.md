@@ -10,6 +10,10 @@ title = "Sugar P.O.P Sailing Again"
 
 **Name:** Sugar P.O.P Sailing Again
 
+**Character:** Sugar
+
+**Category:** Sailing Again 
+
 **Sculptor:** Jyango
 
 **Official price:** 4000 ¥
@@ -23,3 +27,5 @@ title = "Sugar P.O.P Sailing Again"
 **Weight:** 291 (g)
 
 **Box size:** 23.0 x 17.0 x 9.0 (cm)
+
+

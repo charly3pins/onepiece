@@ -10,6 +10,10 @@ title = "Nico Robin P.O.P Limited Edition Repaint Ver."
 
 **Name:** Nico Robin P.O.P Limited Edition Repaint Ver.
 
+**Character:** Nico Robin
+
+**Category:** Limited Edition 
+
 **Sculptor:** 
 
 **Official price:** 6600 ¥
@@ -23,3 +27,5 @@ title = "Nico Robin P.O.P Limited Edition Repaint Ver."
 **Weight:** 410 (g)
 
 **Box size:** 28.4 x 19.4 x 14.4 (cm)
+
+

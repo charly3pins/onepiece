@@ -10,6 +10,10 @@ title = "Aokiji P.O.P DX"
 
 **Name:** Aokiji P.O.P DX
 
+**Character:** Aokiji
+
+**Category:** Neo DX 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 5985 ¥
@@ -23,3 +27,5 @@ title = "Aokiji P.O.P DX"
 **Weight:** 690 (g)
 
 **Box size:** 32.0 x 24.0 x 14.0 (cm)
+
+

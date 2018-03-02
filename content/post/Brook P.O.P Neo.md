@@ -10,6 +10,10 @@ title = "Brook P.O.P Neo"
 
 **Name:** Brook P.O.P Neo
 
+**Character:** Brook
+
+**Category:** Neo 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 5250 ¥
@@ -25,5 +29,7 @@ title = "Brook P.O.P Neo"
 **Weight:** 520 (g)
 
 **Box size:** 32.2 x 21.3 x 12.0 (cm)
+
+
 
 

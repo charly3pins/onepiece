@@ -10,6 +10,10 @@ title = "Tony Tony Chopper P.O.P Neo EX"
 
 **Name:** Tony Tony Chopper P.O.P Neo EX
 
+**Character:** Tony Tony Chopper
+
+**Category:** Neo EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 1890 ¥
@@ -25,5 +29,7 @@ title = "Tony Tony Chopper P.O.P Neo EX"
 **Weight:** 180 (g)
 
 **Box size:** 12.0 x 11.0 x 9.2 (cm)
+
+
 
 

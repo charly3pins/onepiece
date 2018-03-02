@@ -10,6 +10,10 @@ title = "Franky P.O.P CBR3"
 
 **Name:** Franky P.O.P CBR3
 
+**Character:** Franky
+
+**Category:** CB  R 
+
 **Sculptor:** MDM
 
 **Official price:** 2750 ¥
@@ -23,3 +27,5 @@ title = "Franky P.O.P CBR3"
 **Weight:** 140 (g)
 
 **Box size:** 16.2 x 13.0 x 7.2 (cm)
+
+

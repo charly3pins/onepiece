@@ -10,6 +10,10 @@ title = "Smoker P.O.P Original Series 4"
 
 **Name:** Smoker P.O.P Original Series 4
 
+**Character:** Smoker
+
+**Category:** Original Series 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 3990 ¥
@@ -23,3 +27,5 @@ title = "Smoker P.O.P Original Series 4"
 **Weight:** 460 (g)
 
 **Box size:** 19.0 x 27.8 x 12.0 (cm)
+
+

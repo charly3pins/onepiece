@@ -10,6 +10,10 @@ title = "Nami P.O.P Series 4 Ver. 2"
 
 **Name:** Nami P.O.P Series 4 Ver. 2
 
+**Character:** Nami
+
+**Category:** Original Series 
+
 **Sculptor:** 
 
 **Official price:** 3990 ¥
@@ -23,3 +27,5 @@ title = "Nami P.O.P Series 4 Ver. 2"
 **Weight:** 370 (g)
 
 **Box size:** 19.0 x 27.8 x 12.0 (cm)
+
+

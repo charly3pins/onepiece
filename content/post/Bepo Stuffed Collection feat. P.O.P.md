@@ -10,6 +10,10 @@ title = "Bepo Stuffed Collection feat. P.O.P"
 
 **Name:** Bepo Stuffed Collection feat. P.O.P
 
+**Character:** Bepo
+
+**Category:** Stuffed Collection 
+
 **Sculptor:** 
 
 **Official price:** 4200 ¥
@@ -23,3 +27,5 @@ title = "Bepo Stuffed Collection feat. P.O.P"
 **Weight:** 440 (g)
 
 **Box size:** 31.9 x 20.9 x 14.0 (cm)
+
+

@@ -10,6 +10,10 @@ title = "Trafalgar Law P.O.P Sailing Again v.2"
 
 **Name:** Trafalgar Law P.O.P Sailing Again v.2
 
+**Character:** Trafalgar Law
+
+**Category:** Sailing Again 
+
 **Sculptor:** Yuuki Ishiyama
 
 **Official price:** 8800 ¥
@@ -23,3 +27,5 @@ title = "Trafalgar Law P.O.P Sailing Again v.2"
 **Weight:** 720 (g)
 
 **Box size:** 30.0 x 23.0 x 15.0 (cm)
+
+

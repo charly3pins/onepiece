@@ -10,6 +10,10 @@ title = "Nami P.O.P Sailing Again"
 
 **Name:** Nami P.O.P Sailing Again
 
+**Character:** Nami
+
+**Category:** Sailing Again 
+
 **Sculptor:** Ajiken
 
 **Official price:** 5985 ¥
@@ -27,3 +31,5 @@ title = "Nami P.O.P Sailing Again"
 **Box size:** 26.0 x 14.0 x 12.2 (cm)
 
 
+
+**Bonus:** La tercera reedición tuvo fecha inicial 05/2013 pero se retrasó al 06/2013.

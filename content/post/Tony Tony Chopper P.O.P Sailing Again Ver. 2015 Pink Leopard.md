@@ -10,6 +10,10 @@ title = "Tony Tony Chopper P.O.P Sailing Again Ver. 2015 Pink Leopard"
 
 **Name:** Tony Tony Chopper P.O.P Sailing Again Ver. 2015 Pink Leopard
 
+**Character:** Tony Tony Chopper
+
+**Category:** Sailing Again  Limited 
+
 **Sculptor:** Jyango
 
 **Official price:** 3500 ¥
@@ -23,3 +27,5 @@ title = "Tony Tony Chopper P.O.P Sailing Again Ver. 2015 Pink Leopard"
 **Weight:** 190 (g)
 
 **Box size:** 12.0 x 11.0 x 9.0 (cm)
+
+**Bonus:** Fue vendido en 08/2015 en las tiendas Bandai Premium de Taiwan y Hong Kong y en 09/2015 en las Mugiwara Store de Japón para conmemorar el tercer aniversario de la tienda de Shibuya.

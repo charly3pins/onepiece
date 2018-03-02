@@ -10,6 +10,10 @@ title = "Roronoa Zoro P.O.P DX 10th Limited Ver."
 
 **Name:** Roronoa Zoro P.O.P DX 10th Limited Ver.
 
+**Character:** Roronoa Zoro
+
+**Category:** Neo DX  Limited 
+
 **Sculptor:** Ennou Fumihiko
 
 **Official price:** 9250 ¥
@@ -23,3 +27,5 @@ title = "Roronoa Zoro P.O.P DX 10th Limited Ver."
 **Weight:** 641 (g)
 
 **Box size:** 30.0 x 18.0 x 18.0 (cm)
+
+

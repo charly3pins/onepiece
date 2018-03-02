@@ -10,6 +10,10 @@ title = "Nico Robin P.O.P Sailing Again"
 
 **Name:** Nico Robin P.O.P Sailing Again
 
+**Character:** Nico Robin
+
+**Category:** Sailing Again 
+
 **Sculptor:** Ajiken
 
 **Official price:** 6825 ¥
@@ -23,3 +27,5 @@ title = "Nico Robin P.O.P Sailing Again"
 **Weight:** 510 (g)
 
 **Box size:** 32.0 x 18.0 x 16.0 (cm)
+
+

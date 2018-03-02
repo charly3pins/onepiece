@@ -10,6 +10,10 @@ title = "Tony Tony Chopper P.O.P Sailing Again"
 
 **Name:** Tony Tony Chopper P.O.P Sailing Again
 
+**Character:** Tony Tony Chopper
+
+**Category:** Sailing Again 
+
 **Sculptor:** Jyango
 
 **Official price:** 2310 ¥
@@ -25,5 +29,7 @@ title = "Tony Tony Chopper P.O.P Sailing Again"
 **Weight:** 190 (g)
 
 **Box size:** 12.0 x 11.0 x 9.0 (cm)
+
+
 
 

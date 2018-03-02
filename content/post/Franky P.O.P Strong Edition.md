@@ -10,6 +10,10 @@ title = "Franky P.O.P Strong Edition"
 
 **Name:** Franky P.O.P Strong Edition
 
+**Character:** Franky
+
+**Category:** Strong Edition 
+
 **Sculptor:** ATTM
 
 **Official price:** 8925 ¥
@@ -23,3 +27,5 @@ title = "Franky P.O.P Strong Edition"
 **Weight:** 1550 (g)
 
 **Box size:** 29.0 x 29.0 x 28.0 (cm)
+
+

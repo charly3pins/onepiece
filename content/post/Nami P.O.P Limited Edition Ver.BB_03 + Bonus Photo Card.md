@@ -10,6 +10,10 @@ title = "Nami P.O.P Limited Edition Ver.BB_03 &#43; Bonus Photo Card"
 
 **Name:** Nami P.O.P Limited Edition Ver.BB_03 &#43; Bonus Photo Card
 
+**Character:** Nami
+
+**Category:** Limited Edition 
+
 **Sculptor:** Inada Masaki
 
 **Official price:** 9720 ¥
@@ -23,3 +27,5 @@ title = "Nami P.O.P Limited Edition Ver.BB_03 &#43; Bonus Photo Card"
 **Weight:** 500 (g)
 
 **Box size:** 21.0 x 18.0 x 18.0 (cm)
+
+**Bonus:** Basada en el Color Spread del Capítulo 832 del manga.

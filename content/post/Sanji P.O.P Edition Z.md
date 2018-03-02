@@ -10,6 +10,10 @@ title = "Sanji P.O.P Edition Z"
 
 **Name:** Sanji P.O.P Edition Z
 
+**Character:** Sanji
+
+**Category:** Edition Z 
+
 **Sculptor:** Nanatsuki
 
 **Official price:** 8400 ¥
@@ -23,3 +27,5 @@ title = "Sanji P.O.P Edition Z"
 **Weight:** 1127 (g)
 
 **Box size:** 25.0 x 27.0 x 25.0 (cm)
+
+

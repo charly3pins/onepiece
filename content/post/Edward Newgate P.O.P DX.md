@@ -10,6 +10,10 @@ title = "Edward Newgate P.O.P DX"
 
 **Name:** Edward Newgate P.O.P DX
 
+**Character:** Edward Newgate
+
+**Category:** Neo DX 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 9240 ¥
@@ -25,5 +29,7 @@ title = "Edward Newgate P.O.P DX"
 **Weight:** 1510 (g)
 
 **Box size:** 27.0 x 38.5 x 18.7 (cm)
+
+
 
 

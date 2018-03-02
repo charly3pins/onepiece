@@ -10,6 +10,10 @@ title = "Trafalgar Law P.O.P Limited Edition Ver. VS"
 
 **Name:** Trafalgar Law P.O.P Limited Edition Ver. VS
 
+**Character:** Trafalgar Law
+
+**Category:** Limited Edition 
+
 **Sculptor:** MAS
 
 **Official price:** 12636 ¥
@@ -23,3 +27,5 @@ title = "Trafalgar Law P.O.P Limited Edition Ver. VS"
 **Weight:** 500 (g)
 
 **Box size:** 24.0 x 24.0 x 23.0 (cm)
+
+

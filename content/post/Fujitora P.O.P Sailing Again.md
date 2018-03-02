@@ -10,6 +10,10 @@ title = "Fujitora P.O.P Sailing Again"
 
 **Name:** Fujitora P.O.P Sailing Again
 
+**Character:** Fujitora
+
+**Category:** Sailing Again 
+
 **Sculptor:** MAS
 
 **Official price:** 9950 ¥
@@ -23,3 +27,5 @@ title = "Fujitora P.O.P Sailing Again"
 **Weight:** 1583 (g)
 
 **Box size:** 31.0 x 25.0 x 24.0 (cm)
+
+

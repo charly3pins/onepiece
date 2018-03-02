@@ -10,6 +10,10 @@ title = "Chopperman P.O.P Neo EX Blue Reflex Ver."
 
 **Name:** Chopperman P.O.P Neo EX Blue Reflex Ver.
 
+**Character:** Chopperman
+
+**Category:** Neo EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 2000 ¥
@@ -23,3 +27,5 @@ title = "Chopperman P.O.P Neo EX Blue Reflex Ver."
 **Weight:** 190 (g)
 
 **Box size:** 12.1 x 11.0 x 9.6 (cm)
+
+**Bonus:** Vendido de forma exclusiva en el evento One Piece Premier Show 2012, en Universal Studios Japan, Osaka.

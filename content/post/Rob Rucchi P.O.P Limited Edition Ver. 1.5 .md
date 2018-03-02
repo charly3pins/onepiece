@@ -10,6 +10,10 @@ title = "Rob Rucchi P.O.P Limited Edition Ver. 1.5 "
 
 **Name:** Rob Rucchi P.O.P Limited Edition Ver. 1.5 
 
+**Character:** Rob Rucchi
+
+**Category:** Limited Edition 
+
 **Sculptor:** Black Sabbath/Fukuda Takashi
 
 **Official price:** 7770 ¥
@@ -23,3 +27,5 @@ title = "Rob Rucchi P.O.P Limited Edition Ver. 1.5 "
 **Weight:** 490 (g)
 
 **Box size:** 28.0 x 19.2 x 12.0 (cm)
+
+

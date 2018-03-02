@@ -10,6 +10,10 @@ title = "Sogeking P.O.P Neo"
 
 **Name:** Sogeking P.O.P Neo
 
+**Character:** Sogeking
+
+**Category:** Neo 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 5040 ¥
@@ -23,3 +27,5 @@ title = "Sogeking P.O.P Neo"
 **Weight:** 706 (g)
 
 **Box size:** 28.5 x 25.5 x 16.8 (cm)
+
+

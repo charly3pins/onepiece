@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P Mugiwara Theater Memorial Log Ver."
 
 **Name:** Monkey D. Luffy P.O.P Mugiwara Theater Memorial Log Ver.
 
+**Character:** Monkey D. Luffy
+
+**Category:** Mugiwara Theater 
+
 **Sculptor:** Jyango
 
 **Official price:** 2100 ¥
@@ -27,3 +31,5 @@ title = "Monkey D. Luffy P.O.P Mugiwara Theater Memorial Log Ver."
 **Box size:** 12.0 x 11.0 x 9.0 (cm)
 
 
+
+**Bonus:** Vendido de forma exclusiva en el evento One Piece Memorial Log, en Huis Ten Bosch (Theme Park Sasebo, cerca de Nagasaki).

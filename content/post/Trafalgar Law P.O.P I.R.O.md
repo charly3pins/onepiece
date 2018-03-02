@@ -10,6 +10,10 @@ title = "Trafalgar Law P.O.P I.R.O"
 
 **Name:** Trafalgar Law P.O.P I.R.O
 
+**Character:** Trafalgar Law
+
+**Category:** I.R.O 
+
 **Sculptor:** Inada Masaki
 
 **Official price:** 9342 ¥
@@ -23,3 +27,5 @@ title = "Trafalgar Law P.O.P I.R.O"
 **Weight:** 660 (g)
 
 **Box size:** 29.5 x 23.5 x 21.0 (cm)
+
+**Bonus:** Basado en el SBS del Tomo 72 del manga.

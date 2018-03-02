@@ -10,6 +10,10 @@ title = "Nefertari Vivi P.O.P Neo"
 
 **Name:** Nefertari Vivi P.O.P Neo
 
+**Character:** Nefertari Vivi
+
+**Category:** Neo 
+
 **Sculptor:** Kibayashi Norio
 
 **Official price:** 4200 ¥
@@ -23,3 +27,5 @@ title = "Nefertari Vivi P.O.P Neo"
 **Weight:** 470 (g)
 
 **Box size:** 28.0 x 19.0 x 12.0 (cm)
+
+

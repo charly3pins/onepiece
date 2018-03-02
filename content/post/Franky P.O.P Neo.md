@@ -10,6 +10,10 @@ title = "Franky P.O.P Neo"
 
 **Name:** Franky P.O.P Neo
 
+**Character:** Franky
+
+**Category:** Neo 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 4725 ¥
@@ -25,5 +29,7 @@ title = "Franky P.O.P Neo"
 **Weight:** 810 (g)
 
 **Box size:** 28.0 x 26.0 x 16.0 (cm)
+
+
 
 

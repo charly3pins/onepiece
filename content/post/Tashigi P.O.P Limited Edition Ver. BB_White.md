@@ -10,6 +10,10 @@ title = "Tashigi P.O.P Limited Edition Ver. BB_White"
 
 **Name:** Tashigi P.O.P Limited Edition Ver. BB_White
 
+**Character:** Tashigi
+
+**Category:** Limited Edition 
+
 **Sculptor:** Inada Masaki
 
 **Official price:** 9504 ¥
@@ -23,3 +27,5 @@ title = "Tashigi P.O.P Limited Edition Ver. BB_White"
 **Weight:** 494 (g)
 
 **Box size:** 21.5 x 18.5 x 18.5 (cm)
+
+

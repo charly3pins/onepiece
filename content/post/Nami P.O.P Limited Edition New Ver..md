@@ -10,16 +10,22 @@ title = "Nami P.O.P Limited Edition New Ver."
 
 **Name:** Nami P.O.P Limited Edition New Ver.
 
+**Character:** Nami
+
+**Category:** Limited Edition 
+
 **Sculptor:** 
 
-**Official price:** 
+**Official price:** 9250 ¥
 
-**Preorder date:** 
+**Preorder date:** Feb-18
 
-**Release date:** 
+**Release date:** Jul-18
 
-**Height:** 
+**Height:** 21 (cm)
 
 **Weight:** 
 
 **Box size:** 
+
+

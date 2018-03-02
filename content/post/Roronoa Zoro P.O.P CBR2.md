@@ -10,6 +10,10 @@ title = "Roronoa Zoro P.O.P CBR2"
 
 **Name:** Roronoa Zoro P.O.P CBR2
 
+**Character:** Roronoa Zoro
+
+**Category:** CB  R 
+
 **Sculptor:** Jyango
 
 **Official price:** 2970 ¥
@@ -23,3 +27,5 @@ title = "Roronoa Zoro P.O.P CBR2"
 **Weight:** 160 (g)
 
 **Box size:** 16.0 x 13.0 x 7.0 (cm)
+
+

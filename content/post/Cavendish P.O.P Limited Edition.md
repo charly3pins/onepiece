@@ -10,6 +10,10 @@ title = "Cavendish P.O.P Limited Edition"
 
 **Name:** Cavendish P.O.P Limited Edition
 
+**Character:** Cavendish
+
+**Category:** Limited Edition 
+
 **Sculptor:** Ajiken
 
 **Official price:** 9900 ¥
@@ -23,3 +27,5 @@ title = "Cavendish P.O.P Limited Edition"
 **Weight:** 817 (g)
 
 **Box size:** 18.0 x 29.0 x 22.0 (cm)
+
+

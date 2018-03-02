@@ -10,6 +10,10 @@ title = "Rebecca P.O.P CB EX"
 
 **Name:** Rebecca P.O.P CB EX
 
+**Character:** Rebecca
+
+**Category:** CB  EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 3800 ¥
@@ -23,3 +27,5 @@ title = "Rebecca P.O.P CB EX"
 **Weight:** 165 (g)
 
 **Box size:** 16.3 x 13.1 x 8.0 (cm)
+
+

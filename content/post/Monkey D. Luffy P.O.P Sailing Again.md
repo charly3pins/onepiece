@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P Sailing Again"
 
 **Name:** Monkey D. Luffy P.O.P Sailing Again
 
+**Character:** Monkey D. Luffy
+
+**Category:** Sailing Again 
+
 **Sculptor:** ATTM
 
 **Official price:** 6300 ¥
@@ -25,5 +29,7 @@ title = "Monkey D. Luffy P.O.P Sailing Again"
 **Weight:** 520 (g)
 
 **Box size:** 26.0 x 25.0 x 12.3 (cm)
+
+
 
 

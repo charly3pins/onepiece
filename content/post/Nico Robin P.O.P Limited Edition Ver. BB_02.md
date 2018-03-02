@@ -10,6 +10,10 @@ title = "Nico Robin P.O.P Limited Edition Ver. BB_02"
 
 **Name:** Nico Robin P.O.P Limited Edition Ver. BB_02
 
+**Character:** Nico Robin
+
+**Category:** Limited Edition 
+
 **Sculptor:** Inada Motoki
 
 **Official price:** 8650 ¥
@@ -23,3 +27,5 @@ title = "Nico Robin P.O.P Limited Edition Ver. BB_02"
 **Weight:** 
 
 **Box size:** 
+
+

@@ -10,6 +10,10 @@ title = "Nefertari Vivi P.O.P Original Series 3"
 
 **Name:** Nefertari Vivi P.O.P Original Series 3
 
+**Character:** Nefertari Vivi
+
+**Category:** Original Series 
+
 **Sculptor:** Kibayashi Norio
 
 **Official price:** 3990 ¥
@@ -23,3 +27,5 @@ title = "Nefertari Vivi P.O.P Original Series 3"
 **Weight:** 470 (g)
 
 **Box size:** 28.0 x 19.0 x 12.0 (cm)
+
+

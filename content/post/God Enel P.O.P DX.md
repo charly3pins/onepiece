@@ -10,6 +10,10 @@ title = "God Enel P.O.P DX"
 
 **Name:** God Enel P.O.P DX
 
+**Character:** God Enel
+
+**Category:** Neo DX 
+
 **Sculptor:** MAS
 
 **Official price:** 7560 ¥
@@ -23,3 +27,5 @@ title = "God Enel P.O.P DX"
 **Weight:** 1120 (g)
 
 **Box size:** 36.0 x 26.4 x 24.0 (cm)
+
+

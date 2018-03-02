@@ -10,6 +10,10 @@ title = "Perhona P.O.P DX"
 
 **Name:** Perhona P.O.P DX
 
+**Character:** Perhona
+
+**Category:** Neo DX 
+
 **Sculptor:** Ajiken
 
 **Official price:** 7140 ¥
@@ -25,5 +29,7 @@ title = "Perhona P.O.P DX"
 **Weight:** 840 (g)
 
 **Box size:** 35.0 x 33.0 x 18.2 (cm)
+
+
 
 

@@ -10,6 +10,10 @@ title = "Akainu (Sakazuki) P.O.P Neo DX"
 
 **Name:** Akainu (Sakazuki) P.O.P Neo DX
 
+**Character:** Akainu
+
+**Category:** Neo DX 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 7560 ¥
@@ -23,3 +27,5 @@ title = "Akainu (Sakazuki) P.O.P Neo DX"
 **Weight:** 1190 (g)
 
 **Box size:** 32.0 x 28.0 x 17.5 (cm)
+
+

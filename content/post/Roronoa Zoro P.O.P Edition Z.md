@@ -10,6 +10,10 @@ title = "Roronoa Zoro P.O.P Edition Z"
 
 **Name:** Roronoa Zoro P.O.P Edition Z
 
+**Character:** Roronoa Zoro
+
+**Category:** Edition Z 
+
 **Sculptor:** Ampere (Revolve)
 
 **Official price:** 9240 ¥
@@ -23,3 +27,5 @@ title = "Roronoa Zoro P.O.P Edition Z"
 **Weight:** 1440 (g)
 
 **Box size:** 35.5 x 30.5 x 27.0 (cm)
+
+**Bonus:** La fecha de release inicialmente era 02/2014. Se retrasó a 03/2014.

@@ -10,6 +10,10 @@ title = "Nefertari Vivi P.O.P Limited Edition Ver. BB"
 
 **Name:** Nefertari Vivi P.O.P Limited Edition Ver. BB
 
+**Character:** Nefertari Vivi
+
+**Category:** Limited Edition 
+
 **Sculptor:** Inada Masaki
 
 **Official price:** 8400 ¥
@@ -23,3 +27,5 @@ title = "Nefertari Vivi P.O.P Limited Edition Ver. BB"
 **Weight:** 538 (g)
 
 **Box size:** 21.5 x 18.5 x 18.5 (cm)
+
+**Bonus:** El diseño del bikini está basado en una serie de ilustraciones que se hicieron para los eventos Memorial Log y Wonder Festival 2010 [Summer].

@@ -10,6 +10,10 @@ title = "Nico Robin P.O.P Strong Edition"
 
 **Name:** Nico Robin P.O.P Strong Edition
 
+**Character:** Nico Robin
+
+**Category:** Strong Edition 
+
 **Sculptor:** Ajiken
 
 **Official price:** 6300 ¥
@@ -25,5 +29,7 @@ title = "Nico Robin P.O.P Strong Edition"
 **Weight:** 650 (g)
 
 **Box size:** 29.0 x 26.0 x 16.0 (cm)
+
+
 
 

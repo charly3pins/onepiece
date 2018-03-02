@@ -10,6 +10,10 @@ title = "Bellamy P.O.P Sailing Again"
 
 **Name:** Bellamy P.O.P Sailing Again
 
+**Character:** Bellamy
+
+**Category:** Sailing Again 
+
 **Sculptor:** Yuuki Ishiyama
 
 **Official price:** 9504 ¥
@@ -23,3 +27,5 @@ title = "Bellamy P.O.P Sailing Again"
 **Weight:** 938 (g)
 
 **Box size:** 32.0 x 24.0 x 17.0 (cm)
+
+

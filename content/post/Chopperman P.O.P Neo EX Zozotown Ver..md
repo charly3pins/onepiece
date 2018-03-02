@@ -10,6 +10,10 @@ title = "Chopperman P.O.P Neo EX Zozotown Ver."
 
 **Name:** Chopperman P.O.P Neo EX Zozotown Ver.
 
+**Character:** Chopperman
+
+**Category:** Neo EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 2000 ¥
@@ -23,3 +27,5 @@ title = "Chopperman P.O.P Neo EX Zozotown Ver."
 **Weight:** 190 (g)
 
 **Box size:** 12.1 x 11.0 x 9.6 (cm)
+
+**Bonus:** Vendido de forma exclusiva en Zozotown online shop.

@@ -10,6 +10,10 @@ title = "Gol D. Roger P.O.P DX"
 
 **Name:** Gol D. Roger P.O.P DX
 
+**Character:** Gol D. Roger
+
+**Category:** Neo DX 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 9180 ¥
@@ -23,3 +27,5 @@ title = "Gol D. Roger P.O.P DX"
 **Weight:** 1111 (g)
 
 **Box size:** 21.0 x 31.0 x 21.0 (cm)
+
+**Bonus:** La fecha de release inicialmente era 08/2013. Se retrasó a finales de 09/2013.

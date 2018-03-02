@@ -10,6 +10,10 @@ title = "Brook P.O.P Sailing Again"
 
 **Name:** Brook P.O.P Sailing Again
 
+**Character:** Brook
+
+**Category:** Sailing Again 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 7980 ¥
@@ -23,3 +27,5 @@ title = "Brook P.O.P Sailing Again"
 **Weight:** 1200 (g)
 
 **Box size:** 36.0 x 36.9 x 24.9 (cm)
+
+

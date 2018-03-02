@@ -10,6 +10,10 @@ title = "Roronoa Zoro P.O.P Mugiwara Theater"
 
 **Name:** Roronoa Zoro P.O.P Mugiwara Theater
 
+**Character:** Roronoa Zoro
+
+**Category:** Mugiwara Theater 
+
 **Sculptor:** Jyango
 
 **Official price:** 1890 ¥
@@ -25,5 +29,7 @@ title = "Roronoa Zoro P.O.P Mugiwara Theater"
 **Weight:** 150 (g)
 
 **Box size:** 12.0 x 11.0 x 9.0 (cm)
+
+
 
 

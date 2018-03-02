@@ -10,6 +10,10 @@ title = "Sanji P.O.P Original Series 2"
 
 **Name:** Sanji P.O.P Original Series 2
 
+**Character:** Sanji
+
+**Category:** Original Series 
+
 **Sculptor:** Layup
 
 **Official price:** 3990 ¥
@@ -23,3 +27,5 @@ title = "Sanji P.O.P Original Series 2"
 **Weight:** 410 (g)
 
 **Box size:** 27.9 x 18.8 x 12.1 (cm)
+
+

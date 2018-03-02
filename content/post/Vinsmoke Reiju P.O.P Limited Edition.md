@@ -10,6 +10,10 @@ title = "Vinsmoke Reiju P.O.P Limited Edition"
 
 **Name:** Vinsmoke Reiju P.O.P Limited Edition
 
+**Character:** Vinsmoke Reiju
+
+**Category:** Limited Edition 
+
 **Sculptor:** Inada Masaki
 
 **Official price:** 8550 ¥
@@ -23,3 +27,5 @@ title = "Vinsmoke Reiju P.O.P Limited Edition"
 **Weight:** 
 
 **Box size:** 
+
+

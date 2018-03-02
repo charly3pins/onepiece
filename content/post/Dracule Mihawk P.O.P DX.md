@@ -10,6 +10,10 @@ title = "Dracule Mihawk P.O.P DX"
 
 **Name:** Dracule Mihawk P.O.P DX
 
+**Character:** Dracule Mihawk
+
+**Category:** Neo DX 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 5985 ¥
@@ -25,5 +29,7 @@ title = "Dracule Mihawk P.O.P DX"
 **Weight:** 820 (g)
 
 **Box size:** 32.0 x 24.0 x 21.0 (cm)
+
+
 
 

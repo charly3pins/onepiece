@@ -10,6 +10,10 @@ title = "Boa Hancock P.O.P Limited Edition Ver. 3D2Y"
 
 **Name:** Boa Hancock P.O.P Limited Edition Ver. 3D2Y
 
+**Character:** Boa Hancock
+
+**Category:** Limited Edition 
+
 **Sculptor:** Inada Masaki
 
 **Official price:** 9250 ¥
@@ -23,3 +27,5 @@ title = "Boa Hancock P.O.P Limited Edition Ver. 3D2Y"
 **Weight:** 637 (g)
 
 **Box size:** 29.5 x 18.5 x 18.5 (cm)
+
+

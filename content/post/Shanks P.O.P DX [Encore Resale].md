@@ -10,6 +10,10 @@ title = "Shanks P.O.P DX [Encore Resale]"
 
 **Name:** Shanks P.O.P DX [Encore Resale]
 
+**Character:** Shanks
+
+**Category:** Neo DX 
+
 **Sculptor:** Yuuki Ishiyama
 
 **Official price:** 9500 ¥
@@ -23,3 +27,5 @@ title = "Shanks P.O.P DX [Encore Resale]"
 **Weight:** 1260 (g)
 
 **Box size:** 26.0 x 32.0 x 20.0 (cm)
+
+

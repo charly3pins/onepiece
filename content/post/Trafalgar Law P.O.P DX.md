@@ -10,6 +10,10 @@ title = "Trafalgar Law P.O.P DX"
 
 **Name:** Trafalgar Law P.O.P DX
 
+**Character:** Trafalgar Law
+
+**Category:** Neo DX 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 6300 ¥
@@ -23,3 +27,5 @@ title = "Trafalgar Law P.O.P DX"
 **Weight:** 460 (g)
 
 **Box size:** 27.5 x 22.5 x 14.6 (cm)
+
+

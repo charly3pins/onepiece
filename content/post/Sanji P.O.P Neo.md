@@ -10,6 +10,10 @@ title = "Sanji P.O.P Neo"
 
 **Name:** Sanji P.O.P Neo
 
+**Character:** Sanji
+
+**Category:** Neo 
+
 **Sculptor:** Pinpoint
 
 **Official price:** 4200 ¥
@@ -25,5 +29,7 @@ title = "Sanji P.O.P Neo"
 **Weight:** 450 (g)
 
 **Box size:** 28.0 x 19.3 x 12.0 (cm)
+
+
 
 

@@ -10,6 +10,10 @@ title = "Corazon &amp; Trafalgar Law P.O.P Limited Edition"
 
 **Name:** Corazon &amp; Trafalgar Law P.O.P Limited Edition
 
+**Character:** Corazón / Trafalgar Law
+
+**Category:** Limited Edition 
+
 **Sculptor:** MAS/Igarashi Gen
 
 **Official price:** 14040 ¥
@@ -23,3 +27,5 @@ title = "Corazon &amp; Trafalgar Law P.O.P Limited Edition"
 **Weight:** 1900 (g)
 
 **Box size:** 25.5 x 25.5 x 22.5 (cm)
+
+**Bonus:** Ambas figuras están basadas en una escena que transcurre durante el Capítulo 764 del manga / Episodio 703 del anime.

@@ -10,6 +10,10 @@ title = "Usopp P.O.P Mugiwara Theater"
 
 **Name:** Usopp P.O.P Mugiwara Theater
 
+**Character:** Usopp
+
+**Category:** Mugiwara Theater 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 1890 ¥
@@ -23,3 +27,5 @@ title = "Usopp P.O.P Mugiwara Theater"
 **Weight:** 150 (g)
 
 **Box size:** 12.2 x 11.0 x 9.2 (cm)
+
+

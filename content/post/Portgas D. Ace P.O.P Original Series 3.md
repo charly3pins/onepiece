@@ -10,6 +10,10 @@ title = "Portgas D. Ace P.O.P Original Series 3"
 
 **Name:** Portgas D. Ace P.O.P Original Series 3
 
+**Character:** Portgas D. Ace
+
+**Category:** Original Series 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 3990 ¥
@@ -23,3 +27,5 @@ title = "Portgas D. Ace P.O.P Original Series 3"
 **Weight:** 530 (g)
 
 **Box size:** 18.9 x 28.0 x 12.1 (cm)
+
+

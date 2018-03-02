@@ -10,6 +10,10 @@ title = "Donquixote Doflamingo P.O.P DX"
 
 **Name:** Donquixote Doflamingo P.O.P DX
 
+**Character:** Donquixote Doflamingo
+
+**Category:** Neo DX 
+
 **Sculptor:** Yuuki Ishiyama
 
 **Official price:** 7980 ¥
@@ -25,5 +29,7 @@ title = "Donquixote Doflamingo P.O.P DX"
 **Weight:** 1480 (g)
 
 **Box size:** 35.3 x 33.0 x 15.1 (cm)
+
+
 
 

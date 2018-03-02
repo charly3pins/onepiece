@@ -10,6 +10,10 @@ title = "Edward Newgate P.O.P Neo EX Ver. 0"
 
 **Name:** Edward Newgate P.O.P Neo EX Ver. 0
 
+**Character:** Edward Newgate
+
+**Category:** Neo EX 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 9504 ¥
@@ -23,3 +27,5 @@ title = "Edward Newgate P.O.P Neo EX Ver. 0"
 **Weight:** 1523 (g)
 
 **Box size:** 27.0 x 40.0 x 19.0 (cm)
+
+

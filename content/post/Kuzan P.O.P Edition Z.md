@@ -10,6 +10,10 @@ title = "Kuzan P.O.P Edition Z"
 
 **Name:** Kuzan P.O.P Edition Z
 
+**Character:** Aokiji
+
+**Category:** Edition Z 
+
 **Sculptor:** Yuuki Ishiyama
 
 **Official price:** 9504 ¥
@@ -23,3 +27,5 @@ title = "Kuzan P.O.P Edition Z"
 **Weight:** 1200 (g)
 
 **Box size:** 35.4 x 22.5 x 20.9 (cm)
+
+

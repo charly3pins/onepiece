@@ -10,6 +10,10 @@ title = "Roronoa Zoro P.O.P Strong Edition"
 
 **Name:** Roronoa Zoro P.O.P Strong Edition
 
+**Character:** Roronoa Zoro
+
+**Category:** Strong Edition 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 5985 ¥
@@ -25,5 +29,7 @@ title = "Roronoa Zoro P.O.P Strong Edition"
 **Weight:** 500 (g)
 
 **Box size:** 27.2 x 22.1 x 12.2 (cm)
+
+
 
 

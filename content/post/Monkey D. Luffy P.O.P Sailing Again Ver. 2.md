@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P Sailing Again Ver. 2"
 
 **Name:** Monkey D. Luffy P.O.P Sailing Again Ver. 2
 
+**Character:** Monkey D. Luffy
+
+**Category:** Sailing Again 
+
 **Sculptor:** Arai Kyousuke
 
 **Official price:** 9990 ¥
@@ -23,3 +27,5 @@ title = "Monkey D. Luffy P.O.P Sailing Again Ver. 2"
 **Weight:** 574 (g)
 
 **Box size:** 29.3 x 19.2 x 17.1 (cm)
+
+

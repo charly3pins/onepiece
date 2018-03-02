@@ -10,6 +10,10 @@ title = "Smoker P.O.P Neo"
 
 **Name:** Smoker P.O.P Neo
 
+**Character:** Smoker
+
+**Category:** Neo 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 5985 ¥
@@ -23,3 +27,5 @@ title = "Smoker P.O.P Neo"
 **Weight:** 590 (g)
 
 **Box size:** 28.1 x 19.4 x 12.2 (cm)
+
+

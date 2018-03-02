@@ -10,6 +10,10 @@ title = "Chopperman P.O.P Neo EX"
 
 **Name:** Chopperman P.O.P Neo EX
 
+**Character:** Chopperman
+
+**Category:** Neo EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 1890 ¥
@@ -23,3 +27,5 @@ title = "Chopperman P.O.P Neo EX"
 **Weight:** 190 (g)
 
 **Box size:** 12.1 x 11.0 x 9.6 (cm)
+
+

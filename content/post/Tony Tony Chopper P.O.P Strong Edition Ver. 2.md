@@ -10,6 +10,10 @@ title = "Tony Tony Chopper P.O.P Strong Edition Ver. 2"
 
 **Name:** Tony Tony Chopper P.O.P Strong Edition Ver. 2
 
+**Character:** Tony Tony Chopper
+
+**Category:** Strong Edition 
+
 **Sculptor:** Jyango
 
 **Official price:** 2100 ¥
@@ -23,3 +27,5 @@ title = "Tony Tony Chopper P.O.P Strong Edition Ver. 2"
 **Weight:** 210 (g)
 
 **Box size:** 16.2 x 12.2 x 9.3 (cm)
+
+

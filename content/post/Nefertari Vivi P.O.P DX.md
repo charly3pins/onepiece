@@ -10,6 +10,10 @@ title = "Nefertari Vivi P.O.P DX"
 
 **Name:** Nefertari Vivi P.O.P DX
 
+**Character:** Nefertari Vivi
+
+**Category:** Neo DX 
+
 **Sculptor:** Ajiken
 
 **Official price:** 8190 ¥
@@ -23,3 +27,5 @@ title = "Nefertari Vivi P.O.P DX"
 **Weight:** 540 (g)
 
 **Box size:** 29.0 x 19.4 x 16.0 (cm)
+
+

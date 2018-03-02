@@ -10,6 +10,10 @@ title = "Carue P.O.P Neo EX"
 
 **Name:** Carue P.O.P Neo EX
 
+**Character:** Carue
+
+**Category:** Neo EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 5040 ¥
@@ -23,3 +27,5 @@ title = "Carue P.O.P Neo EX"
 **Weight:** 920 (g)
 
 **Box size:** 25.0 x 25.1 x 17.2 (cm)
+
+

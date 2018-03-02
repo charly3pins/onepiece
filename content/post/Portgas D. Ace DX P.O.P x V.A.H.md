@@ -10,6 +10,10 @@ title = "Portgas D. Ace DX P.O.P x V.A.H"
 
 **Name:** Portgas D. Ace DX P.O.P x V.A.H
 
+**Character:** Portgas D. Ace
+
+**Category:** Neo DX 
+
 **Sculptor:** Pinpoint
 
 **Official price:** 9990 ¥
@@ -23,3 +27,5 @@ title = "Portgas D. Ace DX P.O.P x V.A.H"
 **Weight:** 
 
 **Box size:** 
+
+

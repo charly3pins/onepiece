@@ -10,6 +10,10 @@ title = "Bentham P.O.P Limited Edition 10th Limited Ver."
 
 **Name:** Bentham P.O.P Limited Edition 10th Limited Ver.
 
+**Character:** Mr. 2 Bon Clay
+
+**Category:** Limited Edition 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 8640 ¥
@@ -23,3 +27,5 @@ title = "Bentham P.O.P Limited Edition 10th Limited Ver."
 **Weight:** 899 (g)
 
 **Box size:** 30.0 x 18.0 x 18.0 (cm)
+
+

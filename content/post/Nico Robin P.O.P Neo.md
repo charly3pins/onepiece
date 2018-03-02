@@ -10,6 +10,10 @@ title = "Nico Robin P.O.P Neo"
 
 **Name:** Nico Robin P.O.P Neo
 
+**Character:** Nico Robin
+
+**Category:** Neo 
+
 **Sculptor:** 
 
 **Official price:** 4410 ¥
@@ -25,5 +29,7 @@ title = "Nico Robin P.O.P Neo"
 **Weight:** 410 (g)
 
 **Box size:** 28.4 x 19.4 x 14.4 (cm)
+
+
 
 

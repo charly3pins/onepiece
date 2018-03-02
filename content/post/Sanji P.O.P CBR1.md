@@ -10,6 +10,10 @@ title = "Sanji P.O.P CBR1"
 
 **Name:** Sanji P.O.P CBR1
 
+**Character:** Sanji
+
+**Category:** CB  R 
+
 **Sculptor:** MDM
 
 **Official price:** 2970 ¥
@@ -23,3 +27,5 @@ title = "Sanji P.O.P CBR1"
 **Weight:** 140 (g)
 
 **Box size:** 16.2 x 13.0 x 7.2 (cm)
+
+

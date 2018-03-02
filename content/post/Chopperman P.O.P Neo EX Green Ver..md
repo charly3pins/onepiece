@@ -10,6 +10,10 @@ title = "Chopperman P.O.P Neo EX Green Ver."
 
 **Name:** Chopperman P.O.P Neo EX Green Ver.
 
+**Character:** Chopperman
+
+**Category:** Neo EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 2000 ¥
@@ -23,3 +27,7 @@ title = "Chopperman P.O.P Neo EX Green Ver."
 **Weight:** 190 (g)
 
 **Box size:** 12.1 x 11.0 x 9.6 (cm)
+
+**Bonus:** Vendido de forma exclusiva en el evento One Piece Memorial Log Rusutsu Resort, en Rusutsu (Hokkaido).
+
+Limitada a 2.000 unidades.

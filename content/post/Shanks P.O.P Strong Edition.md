@@ -10,6 +10,10 @@ title = "Shanks P.O.P Strong Edition"
 
 **Name:** Shanks P.O.P Strong Edition
 
+**Character:** Shanks
+
+**Category:** Strong Edition 
+
 **Sculptor:** Yuuki Ishiyama
 
 **Official price:** 7140 ¥
@@ -23,3 +27,5 @@ title = "Shanks P.O.P Strong Edition"
 **Weight:** 940 (g)
 
 **Box size:** 29.6 x 21.6 x 16.1 (cm)
+
+

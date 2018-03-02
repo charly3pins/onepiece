@@ -10,6 +10,10 @@ title = "Chopperman P.O.P Neo EX Sky Ver."
 
 **Name:** Chopperman P.O.P Neo EX Sky Ver.
 
+**Character:** Chopperman
+
+**Category:** Neo EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 2000 ¥
@@ -23,3 +27,5 @@ title = "Chopperman P.O.P Neo EX Sky Ver."
 **Weight:** 190 (g)
 
 **Box size:** 12.1 x 11.0 x 9.6 (cm)
+
+**Bonus:** Vendido con motivo de la apertura de la Mugiwara Store de Shibuya (Japón). Para comprarla, había que ir a la tienda a las 9:00 horas, recoger un ticket y volver a las 10:00 horas a por ella.

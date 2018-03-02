@@ -10,6 +10,10 @@ title = "Usopp P.O.P CBR3"
 
 **Name:** Usopp P.O.P CBR3
 
+**Character:** Usopp
+
+**Category:** CB  R 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 2970 ¥
@@ -23,3 +27,5 @@ title = "Usopp P.O.P CBR3"
 **Weight:** 140 (g)
 
 **Box size:** 16.2 x 13.0 x 7.2 (cm)
+
+

@@ -10,6 +10,10 @@ title = "Billy Stuffed Collection feat. P.O.P"
 
 **Name:** Billy Stuffed Collection feat. P.O.P
 
+**Character:** Billy
+
+**Category:** Stuffed Collection 
+
 **Sculptor:** 
 
 **Official price:** 3990 ¥
@@ -23,3 +27,5 @@ title = "Billy Stuffed Collection feat. P.O.P"
 **Weight:** 510 (g)
 
 **Box size:** 35.2 x 20.1 x 19.5 (cm)
+
+

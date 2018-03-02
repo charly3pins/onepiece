@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P Strong Edition"
 
 **Name:** Monkey D. Luffy P.O.P Strong Edition
 
+**Character:** Monkey D. Luffy
+
+**Category:** Strong Edition 
+
 **Sculptor:** Black Sabbath
 
 **Official price:** 5985 ¥
@@ -25,5 +29,7 @@ title = "Monkey D. Luffy P.O.P Strong Edition"
 **Weight:** 750 (g)
 
 **Box size:** 28.0 x 27.0 x 16.0 (cm)
+
+
 
 

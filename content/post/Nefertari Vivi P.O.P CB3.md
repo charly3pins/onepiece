@@ -10,6 +10,10 @@ title = "Nefertari Vivi P.O.P CB3"
 
 **Name:** Nefertari Vivi P.O.P CB3
 
+**Character:** Nefertari Vivi
+
+**Category:** CB 
+
 **Sculptor:** MDM
 
 **Official price:** 1890 ¥
@@ -27,3 +31,5 @@ title = "Nefertari Vivi P.O.P CB3"
 **Box size:** 16.0 x 13.0 x 7.0 (cm)
 
 
+
+**Bonus:** Don Quixote lanzó reedición de esta figura. Preordenable en noviembre de 2010 a 1780¥, se sortearon el 03/12/2010 de forma exclusiva en estas tiendas.

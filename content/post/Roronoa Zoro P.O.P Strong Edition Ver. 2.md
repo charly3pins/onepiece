@@ -10,6 +10,10 @@ title = "Roronoa Zoro P.O.P Strong Edition Ver. 2"
 
 **Name:** Roronoa Zoro P.O.P Strong Edition Ver. 2
 
+**Character:** Roronoa Zoro
+
+**Category:** Strong Edition 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 6300 ¥
@@ -23,3 +27,5 @@ title = "Roronoa Zoro P.O.P Strong Edition Ver. 2"
 **Weight:** 540 (g)
 
 **Box size:** 28.3 x 21.3 x 12.1 (cm)
+
+**Bonus:** La fecha de release inicialmente era 09/2010. Se retrasó a 10/2010.

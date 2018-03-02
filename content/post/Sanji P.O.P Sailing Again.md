@@ -10,6 +10,10 @@ title = "Sanji P.O.P Sailing Again"
 
 **Name:** Sanji P.O.P Sailing Again
 
+**Character:** Sanji
+
+**Category:** Sailing Again 
+
 **Sculptor:** Iwamoto Kunihito
 
 **Official price:** 6090 ¥
@@ -25,5 +29,7 @@ title = "Sanji P.O.P Sailing Again"
 **Weight:** 400 (g)
 
 **Box size:** 28.0 x 17.2 x 11.0 (cm)
+
+
 
 

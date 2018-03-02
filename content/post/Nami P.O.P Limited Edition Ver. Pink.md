@@ -10,6 +10,10 @@ title = "Nami P.O.P Limited Edition Ver. Pink"
 
 **Name:** Nami P.O.P Limited Edition Ver. Pink
 
+**Character:** Nami
+
+**Category:** Limited Edition 
+
 **Sculptor:** Ajiken/Kibayashi Norio
 
 **Official price:** 6000 ¥
@@ -27,3 +31,5 @@ title = "Nami P.O.P Limited Edition Ver. Pink"
 **Box size:** 14.0 x 23.0 x 15.0 (cm)
 
 
+
+**Bonus:** Basada en una serie de ilustraciones que se hicieron para los eventos Memorial Log y Wonder Festival 2010 [Summer].

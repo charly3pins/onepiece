@@ -10,6 +10,10 @@ title = "Trafalgar Law P.O.P Sailing Again v.2 [Encore Resale]"
 
 **Name:** Trafalgar Law P.O.P Sailing Again v.2 [Encore Resale]
 
+**Character:** Trafalgar Law
+
+**Category:** Sailing Again 
+
 **Sculptor:** Yuuki Ishiyama
 
 **Official price:** 9800 ¥
@@ -23,3 +27,5 @@ title = "Trafalgar Law P.O.P Sailing Again v.2 [Encore Resale]"
 **Weight:** 727 (g)
 
 **Box size:** 30.0 x 23.0 x 15.0 (cm)
+
+

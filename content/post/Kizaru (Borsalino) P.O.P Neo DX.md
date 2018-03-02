@@ -10,6 +10,10 @@ title = "Kizaru (Borsalino) P.O.P Neo DX"
 
 **Name:** Kizaru (Borsalino) P.O.P Neo DX
 
+**Character:** Kizaru
+
+**Category:** Neo DX 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 7560 ¥
@@ -23,3 +27,5 @@ title = "Kizaru (Borsalino) P.O.P Neo DX"
 **Weight:** 1160 (g)
 
 **Box size:** 35.0 x 26.0 x 17.0 (cm)
+
+

@@ -10,6 +10,10 @@ title = "Marshall D. Teach P.O.P DX"
 
 **Name:** Marshall D. Teach P.O.P DX
 
+**Character:** Marshall D. Teach
+
+**Category:** Neo DX 
+
 **Sculptor:** MAS
 
 **Official price:** 8820 ¥
@@ -23,3 +27,5 @@ title = "Marshall D. Teach P.O.P DX"
 **Weight:** 1490 (g)
 
 **Box size:** 35.0 x 26.0 x 18.0 (cm)
+
+

@@ -10,6 +10,10 @@ title = "Nami P.O.P Limited Edition Mugiwara Ver. 2 [Kanpai!!]"
 
 **Name:** Nami P.O.P Limited Edition Mugiwara Ver. 2 [Kanpai!!]
 
+**Character:** Nami
+
+**Category:** Limited Edition 
+
 **Sculptor:** Nakao Yoshimasa
 
 **Official price:** 8300 ¥
@@ -23,3 +27,5 @@ title = "Nami P.O.P Limited Edition Mugiwara Ver. 2 [Kanpai!!]"
 **Weight:** 496 (g)
 
 **Box size:** 28.5 x 17.5 x 17.5 (cm)
+
+

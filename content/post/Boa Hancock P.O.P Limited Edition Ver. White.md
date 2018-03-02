@@ -10,6 +10,10 @@ title = "Boa Hancock P.O.P Limited Edition Ver. White"
 
 **Name:** Boa Hancock P.O.P Limited Edition Ver. White
 
+**Character:** Boa Hancock
+
+**Category:** Limited Edition 
+
 **Sculptor:** Ajiken
 
 **Official price:** 5985 ¥
@@ -23,3 +27,5 @@ title = "Boa Hancock P.O.P Limited Edition Ver. White"
 **Weight:** 390 (g)
 
 **Box size:** 15.0 x 31.0 x 18.2 (cm)
+
+

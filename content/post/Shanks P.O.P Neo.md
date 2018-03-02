@@ -10,6 +10,10 @@ title = "Shanks P.O.P Neo"
 
 **Name:** Shanks P.O.P Neo
 
+**Character:** Shanks
+
+**Category:** Neo 
+
 **Sculptor:** Yuuki Ishiyama
 
 **Official price:** 4725 ¥
@@ -23,3 +27,5 @@ title = "Shanks P.O.P Neo"
 **Weight:** 740 (g)
 
 **Box size:** 29.2 x 22.2 x 19.0 (cm)
+
+

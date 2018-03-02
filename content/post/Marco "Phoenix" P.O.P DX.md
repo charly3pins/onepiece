@@ -10,6 +10,10 @@ title = "Marco &#34;Phoenix&#34; P.O.P DX"
 
 **Name:** Marco &#34;Phoenix&#34; P.O.P DX
 
+**Character:** Marco Phoenix
+
+**Category:** Neo DX 
+
 **Sculptor:** MAS
 
 **Official price:** 6300 ¥
@@ -25,5 +29,7 @@ title = "Marco &#34;Phoenix&#34; P.O.P DX"
 **Weight:** 590 (g)
 
 **Box size:** 27.0 x 22.3 x 16.0 (cm)
+
+
 
 

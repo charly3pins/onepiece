@@ -10,6 +10,10 @@ title = "Jinbe P.O.P Sailing Again Maximum"
 
 **Name:** Jinbe P.O.P Sailing Again Maximum
 
+**Character:** Jinbe
+
+**Category:** Sailing Again  Maximum 
+
 **Sculptor:** MAS
 
 **Official price:** 18500 ¥
@@ -23,3 +27,5 @@ title = "Jinbe P.O.P Sailing Again Maximum"
 **Weight:** 
 
 **Box size:** 
+
+

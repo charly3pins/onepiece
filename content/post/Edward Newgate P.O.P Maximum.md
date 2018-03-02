@@ -10,6 +10,10 @@ title = "Edward Newgate P.O.P Maximum"
 
 **Name:** Edward Newgate P.O.P Maximum
 
+**Character:** Edward Newgate
+
+**Category:** Maximum 
+
 **Sculptor:** 
 
 **Official price:** 
@@ -23,3 +27,5 @@ title = "Edward Newgate P.O.P Maximum"
 **Weight:** 
 
 **Box size:** 
+
+

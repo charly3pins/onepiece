@@ -10,6 +10,10 @@ title = "Brook P.O.P Strong Edition"
 
 **Name:** Brook P.O.P Strong Edition
 
+**Character:** Brook
+
+**Category:** Strong Edition 
+
 **Sculptor:** MAS
 
 **Official price:** 7140 ¥
@@ -23,3 +27,5 @@ title = "Brook P.O.P Strong Edition"
 **Weight:** 700 (g)
 
 **Box size:** 34.2 x 23.0 x 12.4 (cm)
+
+

@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P Limited Edition JF Special Ver."
 
 **Name:** Monkey D. Luffy P.O.P Limited Edition JF Special Ver.
 
+**Character:** Monkey D. Luffy
+
+**Category:** Limited Edition 
+
 **Sculptor:** ATTM
 
 **Official price:** 6300 ¥
@@ -23,3 +27,5 @@ title = "Monkey D. Luffy P.O.P Limited Edition JF Special Ver."
 **Weight:** 621 (g)
 
 **Box size:** 30.2 x 17.8 x 24.5 (cm)
+
+

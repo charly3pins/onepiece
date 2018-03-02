@@ -10,6 +10,10 @@ title = "Franky P.O.P CB3"
 
 **Name:** Franky P.O.P CB3
 
+**Character:** Franky
+
+**Category:** CB 
+
 **Sculptor:** MDM
 
 **Official price:** 1890 ¥
@@ -27,3 +31,5 @@ title = "Franky P.O.P CB3"
 **Box size:** 16.0 x 13.0 x 7.0 (cm)
 
 
+
+**Bonus:** Don Quixote lanzó reedición de esta figura. Preordenable en noviembre de 2010 a 1780¥, se sortearon el 17 de Diciembre de 2010 de forma exclusiva en estas tiendas.

@@ -10,6 +10,10 @@ title = "Momonosuke P.O.P CB EX"
 
 **Name:** Momonosuke P.O.P CB EX
 
+**Character:** Momonosuke
+
+**Category:** CB  EX 
+
 **Sculptor:** Jyango
 
 **Official price:** 3348 ¥
@@ -23,3 +27,5 @@ title = "Momonosuke P.O.P CB EX"
 **Weight:** 143 (g)
 
 **Box size:** 12.2 x 11.1 x 9.1 (cm)
+
+

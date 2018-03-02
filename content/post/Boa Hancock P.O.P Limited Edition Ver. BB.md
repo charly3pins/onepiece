@@ -10,6 +10,10 @@ title = "Boa Hancock P.O.P Limited Edition Ver. BB"
 
 **Name:** Boa Hancock P.O.P Limited Edition Ver. BB
 
+**Character:** Boa Hancock
+
+**Category:** Limited Edition 
+
 **Sculptor:** Inada Masaki
 
 **Official price:** 9288 ¥
@@ -23,3 +27,5 @@ title = "Boa Hancock P.O.P Limited Edition Ver. BB"
 **Weight:** 899 (g)
 
 **Box size:** 23.5 x 20.0 x 21.0 (cm)
+
+**Bonus:** Basada en una ilustración que se realizó para el lanzamiento del videojuego One Piece Burning Blood, en 2016.

@@ -10,6 +10,10 @@ title = "Nami P.O.P Strong Edition Limited Lawson"
 
 **Name:** Nami P.O.P Strong Edition Limited Lawson
 
+**Character:** Nami
+
+**Category:** Strong Edition Limited Lawson  Limited Lawson 
+
 **Sculptor:** Ajiken
 
 **Official price:** 5565 ¥
@@ -25,5 +29,7 @@ title = "Nami P.O.P Strong Edition Limited Lawson"
 **Weight:** 410 (g)
 
 **Box size:** 27.2 x 22.1 x 12.2 (cm)
+
+
 
 

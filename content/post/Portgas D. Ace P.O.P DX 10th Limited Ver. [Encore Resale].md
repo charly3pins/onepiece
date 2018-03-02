@@ -10,6 +10,10 @@ title = "Portgas D. Ace P.O.P DX 10th Limited Ver. [Encore Resale]"
 
 **Name:** Portgas D. Ace P.O.P DX 10th Limited Ver. [Encore Resale]
 
+**Character:** Portgas D. Ace
+
+**Category:** Neo DX  Limited 
+
 **Sculptor:** Yuuki Ishiyama
 
 **Official price:** 9990 ¥
@@ -23,3 +27,5 @@ title = "Portgas D. Ace P.O.P DX 10th Limited Ver. [Encore Resale]"
 **Weight:** 760 (g)
 
 **Box size:** 19.0 x 24.0 x 28.5 (cm)
+
+

@@ -10,6 +10,10 @@ title = "Eustass &#34;Captain&#34; Kid P.O.P Limited Edition"
 
 **Name:** Eustass &#34;Captain&#34; Kid P.O.P Limited Edition
 
+**Character:** Eustass Captain Kid
+
+**Category:** Limited Edition 
+
 **Sculptor:** MAS
 
 **Official price:** 12960 ¥
@@ -23,3 +27,5 @@ title = "Eustass &#34;Captain&#34; Kid P.O.P Limited Edition"
 **Weight:** 3300 (g)
 
 **Box size:** 23.9 x 23.1 x 30.0 (cm)
+
+

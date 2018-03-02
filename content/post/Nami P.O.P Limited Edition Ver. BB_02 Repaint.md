@@ -10,6 +10,10 @@ title = "Nami P.O.P Limited Edition Ver. BB_02 Repaint"
 
 **Name:** Nami P.O.P Limited Edition Ver. BB_02 Repaint
 
+**Character:** Nami
+
+**Category:** Limited Edition 
+
 **Sculptor:** Inada Masaki
 
 **Official price:** 8856 ¥
@@ -23,3 +27,5 @@ title = "Nami P.O.P Limited Edition Ver. BB_02 Repaint"
 **Weight:** 506 (g)
 
 **Box size:** 21.5 x 19.5 x 19.5 (cm)
+
+

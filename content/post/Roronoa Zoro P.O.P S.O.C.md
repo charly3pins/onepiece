@@ -10,6 +10,10 @@ title = "Roronoa Zoro P.O.P S.O.C"
 
 **Name:** Roronoa Zoro P.O.P S.O.C
 
+**Character:** Roronoa Zoro
+
+**Category:** S.O.C 
+
 **Sculptor:** MAS
 
 **Official price:** 10638 ¥
@@ -23,3 +27,5 @@ title = "Roronoa Zoro P.O.P S.O.C"
 **Weight:** 
 
 **Box size:** 
+
+

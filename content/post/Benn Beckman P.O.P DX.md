@@ -10,6 +10,10 @@ title = "Benn Beckman P.O.P DX"
 
 **Name:** Benn Beckman P.O.P DX
 
+**Character:** Benn Beckman
+
+**Category:** Neo DX 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 7560 ¥
@@ -23,3 +27,5 @@ title = "Benn Beckman P.O.P DX"
 **Weight:** 1029 (g)
 
 **Box size:** 31.5 x 30.5 x 18.5 (cm)
+
+

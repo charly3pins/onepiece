@@ -10,6 +10,10 @@ title = "Monkey D. Luffy P.O.P Neo"
 
 **Name:** Monkey D. Luffy P.O.P Neo
 
+**Character:** Monkey D. Luffy
+
+**Category:** Neo 
+
 **Sculptor:** Fukuda Takashi
 
 **Official price:** 4200 ¥
@@ -25,5 +29,7 @@ title = "Monkey D. Luffy P.O.P Neo"
 **Weight:** 430 (g)
 
 **Box size:** 28.2 x 19.2 x 12.0 (cm)
+
+
 
 

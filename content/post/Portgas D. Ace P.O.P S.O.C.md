@@ -10,6 +10,10 @@ title = "Portgas D. Ace P.O.P S.O.C"
 
 **Name:** Portgas D. Ace P.O.P S.O.C
 
+**Character:** Portgas D. Ace
+
+**Category:** S.O.C 
+
 **Sculptor:** Pinpoint
 
 **Official price:** 12700 ¥
@@ -23,3 +27,5 @@ title = "Portgas D. Ace P.O.P S.O.C"
 **Weight:** 
 
 **Box size:** 
+
+**Bonus:** La fecha inicial era 01/2018. Se retrasó a 02/2018.
