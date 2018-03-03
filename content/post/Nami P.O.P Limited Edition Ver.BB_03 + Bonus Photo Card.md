@@ -5,9 +5,9 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "Inada Masaki"]
-title = "Nami P.O.P Limited Edition Ver.BB_03 &#43; Bonus Photo Card"
-+++
+title = "Nami P.O.P Limited Edition Ver.BB_03 + Bonus Photo Card"
 
++++
 **Name:** Nami P.O.P Limited Edition Ver.BB_03 &#43; Bonus Photo Card
 
 **Character:** Nami
