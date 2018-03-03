@@ -5,20 +5,20 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", ""]
-title = "Nami P.O.P Original Series 1"
-+++
+title = "Nami P.O.P Original Series I"
 
-**Name:** Nami P.O.P Original Series 1
++++
+**Name:** Nami P.O.P Original Series I
 
 **Character:** Nami
 
-**Category:** Original Series 
+**Category:** Original Series
 
-**Sculptor:** 
+**Sculptor:**
 
 **Official price:** 3990 ¥
 
-**Preorder date:** 
+**Preorder date:**
 
 **Release date:** Apr-04
 
@@ -27,5 +27,3 @@ title = "Nami P.O.P Original Series 1"
 **Weight:** 420 (g)
 
 **Box size:** 28.0 x 19.0 x 12.0 (cm)
-
-
