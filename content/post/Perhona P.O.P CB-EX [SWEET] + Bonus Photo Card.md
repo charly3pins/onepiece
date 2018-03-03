@@ -5,9 +5,9 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "Jyango/Andou Kenji"]
-title = "Perhona P.O.P CB-EX [SWEET] &#43; Bonus Photo Card"
-+++
+title = "Perhona P.O.P CB-EX [SWEET] + Bonus Photo Card"
 
++++
 **Name:** Perhona P.O.P CB-EX [SWEET] &#43; Bonus Photo Card
 
 **Character:** Perhona
