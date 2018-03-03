@@ -5,9 +5,9 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "Jyango"]
-title = "Nami &amp; Roronoa Zoro P.O.P Mugiwara Theater Navigator &amp; No Sense of Direction Set"
-+++
+title = "Nami & Roronoa Zoro P.O.P Mugiwara Theater Navigator & No Sense of Direction Set"
 
++++
 **Name:** Nami &amp; Roronoa Zoro P.O.P Mugiwara Theater Navigator &amp; No Sense of Direction Set
 
 **Character:** Nami / Roronoa Zoro
