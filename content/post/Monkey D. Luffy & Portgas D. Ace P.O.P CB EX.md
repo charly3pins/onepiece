@@ -5,9 +5,9 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "Jyango"]
-title = "Monkey D. Luffy &amp; Portgas D. Ace P.O.P CB EX"
-+++
+title = "Monkey D. Luffy & Portgas D. Ace P.O.P CB EX"
 
++++
 **Name:** Monkey D. Luffy &amp; Portgas D. Ace P.O.P CB EX
 
 **Character:** Monkey D. Luffy / Portgas D. Ace
