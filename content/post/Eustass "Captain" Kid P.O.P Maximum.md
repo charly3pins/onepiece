@@ -5,9 +5,9 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "Yuuki Ishiyama"]
-title = "Eustass &#34;Captain&#34; Kid P.O.P Maximum"
-+++
+title = "Eustass \"Captain\" Kid P.O.P Maximum"
 
++++
 **Name:** Eustass &#34;Captain&#34; Kid P.O.P Maximum
 
 **Character:** Eustass Captain Kid
