@@ -5,9 +5,9 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "Ajiken/Kibayashi Norio"]
-title = "Nami P.O.P Sailing Again Crimin Ver. &#43; One Piece P.O.P Official Guide P.O.Ps! &#43; Bonus Photo Card"
-+++
+title = "Nami P.O.P Sailing Again Crimin Ver. + One Piece P.O.P Official Guide P.O.Ps! + Bonus Photo Card"
 
++++
 **Name:** Nami P.O.P Sailing Again Crimin Ver. &#43; One Piece P.O.P Official Guide P.O.Ps! &#43; Bonus Photo Card
 
 **Character:** Nami
