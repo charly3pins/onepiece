@@ -5,9 +5,9 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "MAS"]
-title = "Eustass &#34;Captain&#34; Kid P.O.P Limited Edition"
-+++
+title = "Eustass \"Captain\" Kid P.O.P Limited Edition"
 
++++
 **Name:** Eustass &#34;Captain&#34; Kid P.O.P Limited Edition
 
 **Character:** Eustass Captain Kid
