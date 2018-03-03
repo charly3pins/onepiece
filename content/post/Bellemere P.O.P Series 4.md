@@ -5,20 +5,20 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", ""]
-title = "Bellemere P.O.P Series 4"
-+++
+title = "Bellemere P.O.P Original Series IV"
 
-**Name:** Bellemere P.O.P Series 4
++++
+**Name:** Bellemere P.O.P Original Series IV
 
 **Character:** Bellemere
 
-**Category:** Original Series 
+**Category:** Original Series
 
-**Sculptor:** 
+**Sculptor:**
 
 **Official price:** 4320 ¥
 
-**Preorder date:** 
+**Preorder date:**
 
 **Release date:** Dec-05
 
@@ -27,5 +27,3 @@ title = "Bellemere P.O.P Series 4"
 **Weight:** 380 (g)
 
 **Box size:** 19.0 x 27.8 x 12.0 (cm)
-
-
