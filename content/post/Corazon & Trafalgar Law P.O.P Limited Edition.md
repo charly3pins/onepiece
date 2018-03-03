@@ -5,9 +5,9 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "MAS/Igarashi Gen"]
-title = "Corazon &amp; Trafalgar Law P.O.P Limited Edition"
-+++
+title = "Corazon & Trafalgar Law P.O.P Limited Edition"
 
++++
 **Name:** Corazon &amp; Trafalgar Law P.O.P Limited Edition
 
 **Character:** Corazón / Trafalgar Law
