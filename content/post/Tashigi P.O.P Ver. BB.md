@@ -3,11 +3,12 @@ banner = ""
 categories = ["figure"]
 date = "2018-01-05T00:00:00Z"
 description = ""
+draft = true
 images = []
 tags = ["onepiece", "portrait of pirates", "Inada Masaki"]
 title = "Tashigi P.O.P Ver. BB"
-+++
 
++++
 **Name:** Tashigi P.O.P Ver. BB
 
 **Sculptor:** Inada Masaki
