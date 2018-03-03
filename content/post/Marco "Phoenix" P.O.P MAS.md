@@ -5,9 +5,9 @@ date = "2018-01-05T00:00:00Z"
 description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "MAS"]
-title = "Marco &#34;Phoenix&#34; P.O.P MAS"
-+++
+title = "Marco \"Phoenix\" P.O.P MAS"
 
++++
 **Name:** Marco &#34;Phoenix&#34; P.O.P MAS
 
 **Character:** Marco Phoenix
