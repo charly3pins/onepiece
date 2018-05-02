@@ -6,8 +6,8 @@ description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "Yuuki Ishiyama"]
 title = "Dracule Mihawk P.O.P DX Ver. 2"
-+++
 
++++
 **Name:** Dracule Mihawk P.O.P DX Ver. 2
 
 **Character:** Dracule Mihawk
