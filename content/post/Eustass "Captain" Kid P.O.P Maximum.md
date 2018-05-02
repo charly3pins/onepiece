@@ -8,11 +8,11 @@ tags = ["onepiece", "portrait of pirates", "Yuuki Ishiyama"]
 title = "Eustass \"Captain\" Kid P.O.P Maximum"
 
 +++
-**Name:** Eustass &#34;Captain&#34; Kid P.O.P Maximum
+**Name:** Eustass "Captain" Kid P.O.P Maximum
 
 **Character:** Eustass Captain Kid
 
-**Category:** Maximum 
+**Category:** Maximum
 
 **Sculptor:** Yuuki Ishiyama
 
@@ -27,5 +27,3 @@ title = "Eustass \"Captain\" Kid P.O.P Maximum"
 **Weight:** 2050 (g)
 
 **Box size:** 38.0 x 30.0 x 24.0 (cm)
-
-
