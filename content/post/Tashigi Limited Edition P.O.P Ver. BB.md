@@ -6,8 +6,8 @@ description = ""
 images = []
 tags = ["onepiece", "portrait of pirates", "Inada Masaki"]
 title = "Tashigi Limited Edition P.O.P Ver. BB"
-+++
 
++++
 **Name:** Tashigi Limited Edition P.O.P Ver. BB
 
 **Character:** Tashigi
