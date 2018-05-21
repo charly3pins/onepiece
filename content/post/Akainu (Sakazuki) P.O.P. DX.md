@@ -1,25 +1,25 @@
 +++
-date = "2018-03-03T21:44:46+00:00"
+date = "2018-03-03T21:44:46Z"
 title = "Akainu (Sakazuki) P.O.P DX"
 undefined = []
 
 +++
-Name: Akainu (Sakazuki) P.O.P DX
+**Name:** Akainu (Sakazuki) P.O.P DX
 
-Character: Akainu
+**Character:** Akainu
 
-Category: Neo DX
+**Category:** Neo DX
 
-Sculptor: Fukuda Takashi
+**Sculptor:** Fukuda Takashi
 
-Official price: 7560 ¥
+**Official price:** 7560 ¥
 
-Preorder date: Aug-11
+**Preorder date:** Aug-11
 
-Release date: Nov-11
+**Release date:** Nov-11
 
-Height: 26 (cm)
+**Height:** 26 (cm)
 
-Weight: 1190 (g)
+**Weight:** 1190 (g)
 
-Box size: 32.0 x 28.0 x 17.5 (cm)
+**Box size:** 32.0 x 28.0 x 17.5 (cm)
