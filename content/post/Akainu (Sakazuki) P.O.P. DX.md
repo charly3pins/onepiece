@@ -23,3 +23,5 @@ undefined = []
 **Weight:** 1190 (g)
 
 **Box size:** 32.0 x 28.0 x 17.5 (cm)
+
+![](/uploads/2018/05/21/akainu pop.jpg)
