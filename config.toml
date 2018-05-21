@@ -1,108 +1,32 @@
+# Site settings
 baseurl = "https://charly3pins.github.io/onepiece/"
 languageCode = "en-us"
-title = "ONEPIECE"
-# Enable comments by entering your Disqus shortname
-disqusShortname = "charly3pins"
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
-# Define the number of posts per page
-paginate = 10
-footnotereturnlinkcontents = "↩"
-theme = "hugo-icarus-theme"
-# Comment the themesDir option if you use this theme in production
-# themesDir = "../.."
+title = "P.O.P Guide"
+theme = "hugrid"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-XXXXXXXX-Y"
 
-
-[permalinks]
-    post = "/:year/:month/:day/:slug"
-
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
 
 [params]
-    # Tell me who you are
-    author = "Charly3pins"
-    bio = "Collector"
-    location = "New world"
-    site_description = ""
-    copyright  = "Charly3pins"
-    avatar = "law.png"
-    # Enter your email address to display your Gravatar icon in the profile. If not set the theme
-    # will fallback to the avatar.
-    # gravatar = "you@example.com"
-    logo = "css/images/logo.png"
-    disable_mathjax = false # set to true to disable MathJax
+    # Meta
+    title = "Portrait of Pirates - The final Guide of figures"
+    subtitle = "All related with the P.O.P collection and more!"
+    author = "Charly3Pins"
+    description = "Hugrid - grid theme for Hugo with an expanding image preview."
+    keywords = "One piece, portrait of pirates, pop figures, collectionism, japan, anime, mangac, ollection"
 
-    # define which types of pages should be shown. By default the type with the most regular pages
-    mainSections = ["post"]
+    # Body background color
+    bodybgcolor = "#f9f9f9"
 
-    # Format dates with Go's time formatting
-    date_format = "2006-01-02"
+    # Preview container button text
+    buttontext = "Get the theme"
 
-    # Add custom assets with their paths relative to the static folder
-	custom_css = []
-	custom_js  = []
+    # Footer text
+    footertext = "Made by [ucles83](https://www.facebook.com/joseuclescollection/) and [Charly3Pins](https://twitter.com/charly3pins)"
 
-# Create custom menu entries by defining a label and a link for
-# them. Since you can also link posts, you've the option the
-# place the links before or after them.
-#
-# E.g.: "Home" appears before all linked posts in the menu
-# and "Tags" / "Categories" after them.
-[[params.menu]]
-    before = true
-    label  = "Home"
-    link   = "/"
-
-[[params.menu]]
-    before = false
-    label  = "Tags"
-    link   = "tags/"
-
-[[params.menu]]
-    before = false
-    label  = "Categories"
-    link   = "categories/"
-
-# Enter a link for the follow button on the left
-[params.profile]
-    follow_button = "https://github.com/charly3pins"
-
-
-[social]
-# Add your social network accounts to the profile section on the left
-# by entering your username. The links to your account will be
-# created automatically.
-    github          = "charly3pins"
-    gitlab          = ""
-    bitbucket       = ""
-    jsfiddle        = ""
-    codepen         = ""
-    foursquare      = ""
-    dribbble        = ""
-    deviantart      = ""
-    behance         = ""
-    flickr          = ""
-    instagram       = ""
-    youtube         = ""
-    vimeo           = ""
-    vine            = ""
-    medium          = ""
-    wordpress       = ""
-    tumblr          = ""
-    xing            = ""
-    linkedin        = ""
-    slideshare      = ""
-    stackoverflow   = ""
-    reddit          = ""
-    pinterest       = ""
-    googleplus      = ""
-    facebook        = ""
-    facebook_admin  = ""
-    twitter_domain  = ""
-    twitter         = "charly3pins"
-
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    recent_articles = true
-    categories = true
-    tags = true
-    tag_cloud = true
+    # add extra-css
+    # custom_css = ['css/extra1.css', 'css/extra2.css']

@@ -1,39 +1,105 @@
-[articles]
-    read_more = "Read more"
-    words = "words"
-    readingtime = "minute read"
-    share = "Share"
-    comments = "Comments"
-
-# Linked older/newer posts at the bottom of each one
-[articles.linked_posts]
-    older = "Older"
-    newer = "Newer"
-
-[search]
-    placeholder = "Search"
-
-[pagination]
-    previous = "Prev"
-    next = "Next"
-
-[profile]
-    follow_button = "Follow"
-    tags = "Tags"
-    posts = "Posts"
-
-[page_not_found]
-    title = "404 - page not found"
-    subtitle = "The content you're looking for doesn't seem to exist."
-
-[widgets.categories]
-    title = "Categories"
-
-[widgets.recent_articles]
-    title = "Recents"
-
-[widgets.tag_cloud]
-    title = "Tag cloud"
-
-[widgets.tags]
-    title = "Tags"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/2.png"
+thumb = "images/thumbs/2.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/3.png"
+thumb = "images/thumbs/3.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/4.png"
+thumb = "images/thumbs/4.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/5.png"
+thumb = "images/thumbs/5.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/3.png"
+thumb = "images/thumbs/3.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/4.png"
+thumb = "images/thumbs/4.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/2.png"
+thumb = "images/thumbs/2.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/3.png"
+thumb = "images/thumbs/3.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/4.png"
+thumb = "images/thumbs/4.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/5.png"
+thumb = "images/thumbs/5.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/2.png"
+thumb = "images/thumbs/2.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/3.png"
+thumb = "images/thumbs/3.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
